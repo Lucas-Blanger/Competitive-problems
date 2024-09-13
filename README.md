@@ -23,7 +23,7 @@ O repositório está organizado da seguinte forma:
 ├── Python
 └── README.md
 
-#Como Usar
+##Como Usar
 
     Clone o repositório:
 
@@ -32,7 +32,7 @@ O repositório está organizado da seguinte forma:
     Navegue até a pasta do problema que você deseja ver a solução.
     Abra o arquivo de código fonte correspondente para ver a solução.
 
-#Contribuições
+##Contribuições
 
 Contribuições são bem-vindas! Se você deseja adicionar suas próprias soluções ou melhorar as existentes, siga os passos abaixo:
 
@@ -51,6 +51,6 @@ Contribuições são bem-vindas! Se você deseja adicionar suas próprias soluç
 
     Abra um Pull Request neste repositório.
 
-#Licença
+##Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
