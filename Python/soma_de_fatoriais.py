@@ -5,8 +5,12 @@ def fatorial(n):
         return fatorial(n -1) * n 
 
 
-numeros = input().split()
-
-a, b = map(int, numeros)
-
-print(fatorial(a)+fatorial(b))
+try:
+    while True:
+        numeros = input().split()
+        a, b = map(int, numeros)
+        
+        soma_fatoriais = fatorial(a) + fatorial(b)
+        print(soma_fatoriais)
+except EOFError:
+    pass
