@@ -1,19 +1,25 @@
-s = input().strip()
-k = int(input().strip())
-n = len(s)
-grupos = [[] for j in range(k)]
+stringOriginal = input().strip()
+k = int(input())
+tamanho = len(stringOriginal)
 
-for i in range(n):
-    grupos[i % k].append(s[i])
 
-for grupo in grupos:
-    grupo.sort()
+posicao= [False] * tamanho
 
-resultado = []
-indices = [0] * k
-for i in range(n):
-    indice_grupo = i % k
-    resultado.append(grupos[indice_grupo][indices[indice_grupo]])
-    indices[indice_grupo] += 1
+stringOriginal = list(stringOriginal)
 
-print(''.join(resultado))
+for inicio in range(k):
+    if not posicao[inicio]:
+        indices= []
+        indiceAtual = inicio
+        
+        while indiceAtual < tamanho:
+            indices.append(indiceAtual)
+            posicao[indiceAtual] = True
+            indiceAtual += k 
+        
+        stringIndices = sorted(stringOriginal[indice] for indice in indices)
+        
+        for indice, caractere in zip(indices, stringIndices):
+            stringOriginal[indice] = caractere
+
+print(''.join(stringOriginal))
