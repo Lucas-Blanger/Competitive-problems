@@ -63,10 +63,10 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [2091](https://judge.beecrowd.com.br/pt/problems/view/2091) | Beecrowd    | Python    |
 | [2136](https://judge.beecrowd.com.br/pt/problems/view/2136) | Beecrowd    | Python    |
 | [1086](https://judge.beecrowd.com.br/pt/problems/view/1086) | Beecrowd    | c++    |
-| [joias](https://codeforces.com/gym/105327/problem/E) | Codeforces    | c    |
+| [joias](https://codeforces.com/gym/105327/problem/E) | Codeforces    | C    |
 | [lecographically-maximum](https://codeforces.com/gym/105327/problem/L) | Codeforces    | Python   |
 | [guerra](https://cp.nextline.com.br/problem/14) | Programming Fight    | c++   |
-| [lexi-challenger](https://codeforces.com/gym/104555/problem/L) | Codeforces    | c   |
+| [lexi-challenger](https://codeforces.com/gym/104555/problem/L) | Codeforces    | C   |
 | [Zhans Blender](https://codeforces.com/problemset/problem/2013/A) | Codeforces    | Python   |
 | [1036](https://judge.beecrowd.com/pt/problems/view/1036) | Beecrowd    | Python   |
 | [1036](https://judge.beecrowd.com/pt/problems/view/1036) | Beecrowd    | Python   |
@@ -76,6 +76,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [enzo](https://cp.nextline.com.br/problem/16) | Programming Fight    | Python   |
 | [1020](https://judge.beecrowd.com/pt/problems/view/1020) | Beecrowd    | Python   |
 | [1037](https://judge.beecrowd.com/pt/problems/view/1037) | Beecrowd    | Python   |
-| [1037](https://judge.beecrowd.com/pt/problems/view/1037) | Beecrowd    | Python   |
+| [1643](https://judge.beecrowd.com/pt/problems/view/1643) | Beecrowd    | Python   |
+| [1878](https://judge.beecrowd.com/pt/problems/view/1878) | Beecrowd    | Python   |
+| [1076](https://judge.beecrowd.com/pt/problems/view/1076) | Beecrowd    | C   |
 
 
