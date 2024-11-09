@@ -1,40 +1,46 @@
-import numpy as np
+import math
 
-def calcula_volume(v1, v2, v3, v4):
-    matriz = np.array([
-        [v1[0], v1[1], v1[2], 1],
-        [v2[0], v2[1], v2[2], 1],
-        [v3[0], v3[1], v3[2], 1],
-        [v4[0], v4[1], v4[2], 1]
-    ])
-    return abs(np.linalg.det(matriz)) / 6
+def distancia(p1, p2):
+    return math.sqrt((p1[0] - p2[0]) ** 2 + (p1[1] - p2[1]) ** 2 + (p1[2] - p2[2]) ** 2)
 
-def identifica_vertice_alterado(vertices):
-    volume_total = calcula_volume(vertices[0], vertices[1], vertices[2], vertices[3])
+def verificaVerticeAlterado(vertices):
+    distancias = [
+        (distancia(vertices[0], vertices[1]), 0, 1),
+        (distancia(vertices[0], vertices[2]), 0, 2),
+        (distancia(vertices[0], vertices[3]), 0, 3),
+        (distancia(vertices[1], vertices[2]), 1, 2),
+        (distancia(vertices[1], vertices[3]), 1, 3),
+        (distancia(vertices[2], vertices[3]), 2, 3)
+    ]
     
-    diferencas = []
+    inconsistencias = [0, 0, 0, 0]
+    
+    mediaDistacia = sum(d[0] for d in distancias) / len(distancias)
+    
+    for d, v1, v2 in distancias:
+        if abs(d - mediaDistacia) > 0.01 * mediaDistacia:
+            inconsistencias[v1] += 1
+            inconsistencias[v2] += 1
+    
     for i in range(4):
-        outros_vertices = [vertices[j] for j in range(4) if j != i]
-        vertice_temporario = (0, 0, 0)  # vértice temporário na origem
-        volume_com_temporario = calcula_volume(outros_vertices[0], outros_vertices[1], outros_vertices[2], vertice_temporario)
-        diferenca = abs(volume_total - volume_com_temporario)
-        diferencas.append(diferenca)
-    
-    vertice_alterado = diferencas.index(max(diferencas)) + 1
-    return vertice_alterado
+        if inconsistencias[i] == 3:
+            return i + 1  
 
-def main():
-    while True:
-        vertices = []
-        for _ in range(4):
-            entrada = input().strip()
-            if entrada == "0 0 0":
-                return
-            coordenadas = tuple(map(float, entrada.split()))
-            vertices.append(coordenadas)
+
+
+while True:
+
+    vertices = []
+    for i in range(4):
+        x, y, z = map(float, input().split())
         
-        vertice_alterado = identifica_vertice_alterado(vertices)
-        print(vertice_alterado)
+        vertices.append((x, y, z))
+        
+    if all(v == (0.0, 0.0, 0.0) for v in vertices):
+        break
+        
 
-if __name__ == "__main__":
-    main()
+    verticeAlterado = verificaVerticeAlterado(vertices)
+    print(verticeAlterado)
+
+

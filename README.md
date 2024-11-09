@@ -83,5 +83,10 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [1152](https://judge.beecrowd.com/pt/problems/view/1152) | Beecrowd    | Python   |
 | [10037](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=978) | UVa    | Python   |
 | [410](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=351) | UVa    | Python   |
+| [1223](https://judge.beecrowd.com/pt/problems/view/1223) | Beecrowd    | C   |
+| [438](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=438) | UVa    | Python   |
+| [1124](https://judge.beecrowd.com/pt/problems/view/1124) | Beecrowd    | Python   |
+| [10432](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=10432) | UVa    | Python   |
+| [1291](https://judge.beecrowd.com/pt/problems/view/1291) | Beecrowd    | Python   |
 
 
