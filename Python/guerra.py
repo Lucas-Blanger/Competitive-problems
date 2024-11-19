@@ -1,46 +1,44 @@
 import math
 
-def distancia(p1, p2):
-    return math.sqrt((p1[0] - p2[0]) ** 2 + (p1[1] - p2[1]) ** 2 + (p1[2] - p2[2]) ** 2)
+def distancia(v1, v2):
+    return math.sqrt((v2[0] - v1[0])**2 + (v2[1] - v1[1])**2 + (v2[2] - v1[2])**2)
 
-def verificaVerticeAlterado(vertices):
-    distancias = [
-        (distancia(vertices[0], vertices[1]), 0, 1),
-        (distancia(vertices[0], vertices[2]), 0, 2),
-        (distancia(vertices[0], vertices[3]), 0, 3),
-        (distancia(vertices[1], vertices[2]), 1, 2),
-        (distancia(vertices[1], vertices[3]), 1, 3),
-        (distancia(vertices[2], vertices[3]), 2, 3)
-    ]
-    
-    inconsistencias = [0, 0, 0, 0]
-    
-    mediaDistacia = sum(d[0] for d in distancias) / len(distancias)
-    
-    for d, v1, v2 in distancias:
-        if abs(d - mediaDistacia) > 0.01 * mediaDistacia:
-            inconsistencias[v1] += 1
-            inconsistencias[v2] += 1
-    
+def verticeAlterado(vertice):
+    distancias = []
     for i in range(4):
-        if inconsistencias[i] == 3:
-            return i + 1  
+        dists = []
+        for j in range(4):
+            if i != j:
+                dists.append(distancia(vertice[i], vertice[j]))
+        distancias.append(dists)
+    
+    mediaDistacia = min(distancias, key=lambda d: sum(abs(d[k] - d[m]) for k in range(3) for m in range(k+1, 3)))
+    mediaValor = sum(mediaDistacia) / 3
+    
+    alterado = -1
+    maiorDesvio = 0
+    for i in range(4):
+        desvio = sum(abs(d - mediaValor) for d in distancias[i])
+        if desvio > maiorDesvio:
+            maiorDesvio = desvio
+            alterado = i
+    
+    return alterado + 1  
 
-
-
+pe = 0
 while True:
-
-    vertices = []
-    for i in range(4):
-        x, y, z = map(float, input().split())
-        
-        vertices.append((x, y, z))
-        
-    if all(v == (0.0, 0.0, 0.0) for v in vertices):
+    if pe == 1:
         break
-        
 
-    verticeAlterado = verificaVerticeAlterado(vertices)
-    print(verticeAlterado)
+    vertice = []
+    for i in range(4):
+        x, y, z = map(float, input().strip().split())
+        if x == 0 and y == 0 and z == 0:
+            pe = 1
+            break
+        vertice.append((x, y, z))
+        
+    if pe == 0 and len(vertice) == 4:
+        print(verticeAlterado(vertice))
 
 
