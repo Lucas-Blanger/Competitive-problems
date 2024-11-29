@@ -94,5 +94,6 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [1558](https://judge.beecrowd.com/pt/problems/view/1558) | Beecrowd    | c++   |
 | [tourist](https://codeforces.com/contest/76/problem/F) | Codeforces    | c++   |
 | [1495](https://judge.beecrowd.com/pt/problems/view/1495) | Beecrowd    | c++   |
+| [1460](https://judge.beecrowd.com/pt/problems/view/1460) | Beecrowd    | c++   |
 
 
