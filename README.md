@@ -88,5 +88,11 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [1124](https://judge.beecrowd.com/pt/problems/view/1124) | Beecrowd    | Python   |
 | [10432](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=10432) | UVa    | Python   |
 | [1291](https://judge.beecrowd.com/pt/problems/view/1291) | Beecrowd    | Python   |
+| [1166](https://judge.beecrowd.com/pt/problems/view/1166) | Beecrowd    | Python   |
+| [1798](https://judge.beecrowd.com/pt/problems/view/1798) | Beecrowd    | Python   |
+| [1310](https://judge.beecrowd.com/pt/problems/view/1310) | Beecrowd    | Python   |
+| [1558](https://judge.beecrowd.com/pt/problems/view/1558) | Beecrowd    | c++   |
+| [tourist](https://codeforces.com/contest/76/problem/F) | Codeforces    | c++   |
+| [1495](https://judge.beecrowd.com/pt/problems/view/1495) | Beecrowd    | c++   |
 
 
