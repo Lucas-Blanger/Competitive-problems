@@ -1,78 +1,55 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
-#include <cmath>
-
+#include <map>
 using namespace std;
 
 struct Evento {
-    int coordenada, tempo;
+    int x, t;
 };
 
-// Comparador para ordenar os eventos por tempo
-bool compararPorTempo(const Evento& a, const Evento& b) {
-    return a.tempo < b.tempo;
+bool compara(Evento a, Evento b) {
+    return a.t < b.t;
 }
 
-pair<int, int> calcularMaximoEventos(vector<Evento>& eventos, int velocidade) {
-    // Ordenar os eventos pelo tempo
-    sort(eventos.begin(), eventos.end(), compararPorTempo);
-    int quantidadeEventos = eventos.size();
+int calculaEventos(const vector<Evento>& eventos, int v, int inicio) {
+    int n = eventos.size();
+    vector<int> dp(n, 0);
 
-    // Vetores para armazenar o número máximo de eventos visitados
-    vector<int> dpAPartirDeZero(quantidadeEventos, 0);
-    vector<int> dpAPartirDeQualquerPonto(quantidadeEventos, 0);
-
-    int maximoDeZero = 0;
-    int maximoQualquerPonto = 0;
-
-    for (int i = 0; i < quantidadeEventos; ++i) {
-        int coordenadaAtual = eventos[i].coordenada;
-        int tempoAtual = eventos[i].tempo;
-
-        // Cenário: Começando de zero
-        if (abs(coordenadaAtual) <= tempoAtual * velocidade) {
-            dpAPartirDeZero[i] = 1;
+    for (int i = 0; i < n; ++i) {
+        if (abs(eventos[i].x - inicio) <= eventos[i].t * v) {
+            dp[i] = 1;
         }
-
-        // Cenário: Começando de qualquer ponto
-        dpAPartirDeQualquerPonto[i] = 1;
 
         for (int j = 0; j < i; ++j) {
-            int coordenadaAnterior = eventos[j].coordenada;
-            int tempoAnterior = eventos[j].tempo;
-
-            // Verificar se o evento atual é alcançável a partir do evento anterior
-            if (tempoAtual >= tempoAnterior) {
-                if (abs(coordenadaAtual - coordenadaAnterior) <= (tempoAtual - tempoAnterior) * velocidade) {
-                    dpAPartirDeZero[i] = max(dpAPartirDeZero[i], dpAPartirDeZero[j] + 1);
-                    dpAPartirDeQualquerPonto[i] = max(dpAPartirDeQualquerPonto[i], dpAPartirDeQualquerPonto[j] + 1);
-                }
+            if (dp[j] > 0 && abs(eventos[i].x - eventos[j].x) <= (eventos[i].t - eventos[j].t) * v) {
+                dp[i] = max(dp[i], dp[j] + 1);
             }
         }
-
-        // Atualizar os máximos encontrados
-        maximoDeZero = max(maximoDeZero, dpAPartirDeZero[i]);
-        maximoQualquerPonto = max(maximoQualquerPonto, dpAPartirDeQualquerPonto[i]);
     }
 
-    return {maximoDeZero, maximoQualquerPonto};
+    return *max_element(dp.begin(), dp.end());
 }
 
 int main() {
-    int quantidadeEventos;
-    cin >> quantidadeEventos;
+    int n, v;
+    cin >> n;
 
-    vector<Evento> eventos(quantidadeEventos);
-    for (int i = 0; i < quantidadeEventos; ++i) {
-        cin >> eventos[i].coordenada >> eventos[i].tempo;
+    vector<Evento> eventos(n);
+    for (int i = 0; i < n; ++i) {
+        cin >> eventos[i].x >> eventos[i].t;
+    }
+    cin >> v;
+
+    sort(eventos.begin(), eventos.end(), compara);
+
+    int maxEventosInicial = calculaEventos(eventos, v, 0);
+
+    int maxEventosLivre = 0;
+    for (int i = 0; i < n; ++i) {
+        maxEventosLivre = max(maxEventosLivre, calculaEventos(eventos, v, eventos[i].x));
     }
 
-    int velocidadeMaxima;
-    cin >> velocidadeMaxima;
-
-    auto resultado = calcularMaximoEventos(eventos, velocidadeMaxima);
-    cout << resultado.first << " " << resultado.second << endl;
-
+    cout << maxEventosInicial << " " << maxEventosLivre << "\n";
     return 0;
 }
