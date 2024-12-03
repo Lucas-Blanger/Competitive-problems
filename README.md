@@ -96,5 +96,7 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para m
 | [1495](https://judge.beecrowd.com/pt/problems/view/1495) | Beecrowd    | c++   |
 | [1460](https://judge.beecrowd.com/pt/problems/view/1460) | Beecrowd    | c++   |
 | [1464](https://judge.beecrowd.com/pt/problems/view/1464) | Beecrowd    | c++   |
+| [torres](https://cp.nextline.com.br/problem/34) | Programming Fight    | Python  |
+| [subordinados](https://cp.nextline.com.br/problem/33) | Programming Fight    | C  |
 
 
