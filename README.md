@@ -1,61 +1,28 @@
-# Problemas de Programação Competitiva
+# Competitive Programming Problems
 
-Bem-vindo ao repositório de problemas de programação competitiva que eu resolvi! Este repositório contém soluções para diversos problemas de programação competitiva, organizados por categoria.
+Welcome to the repository of competitive programming problems I have solved! This repository contains solutions to various competitive programming problems, organized by category.
 
-## Índice
+## Table of Contents
 
-- Introdução
-- Estrutura do Repositório
-- Como Usar
-- Contribuições
-- Licença
+- Introduction
+- Repository Structure
+- Summary
 
-## Introdução
+## Introduction
 
-Este repositório contém minhas soluções para problemas encontrados em várias plataformas de programação competitiva, como Beecrowd, Codeforces, Maratona de Programação da SBC, Programadores da America, ICPC World Finals, entre outras.
+This repository contains my solutions to problems found on various competitive programming platforms, such as Beecrowd, Codeforces, SBC Programming Marathon, America’s Programmers, ICPC World Finals, among others.
 
-## Estrutura do Repositório
+## Repository Structure
 
-O repositório está organizado da seguinte forma:
+The repository is organized as follows:
 
 .
+├── C
 ├── C++
 ├── Python
 └── README.md
 
-## Como Usar
-
-    Clone o repositório:
-
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-
-    Navegue até a pasta do problema que você deseja ver a solução.
-    Abra o arquivo de código fonte correspondente para ver a solução.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você deseja adicionar suas próprias soluções ou melhorar as existentes, siga os passos abaixo:
-
-    Faça um fork deste repositório.
-    Crie uma nova branch:
-
-    git checkout -b minha-nova-branch
-
-    Faça suas alterações e commit:
-
-    git commit -m "Adiciona nova solução para problema X"
-
-    Envie suas alterações para o seu fork:
-
-    git push origin minha-nova-branch
-
-    Abra um Pull Request neste repositório.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
-
-## Sumário
+## Summary
 
 | Nome               | Plataforma       | Linguagem        |
 |:------------------:|:----------------:|:----------------:|
