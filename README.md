@@ -66,5 +66,7 @@ The repository is organized as follows:
 | [torres](https://cp.nextline.com.br/problem/34) | Programming Fight    | Python  |
 | [subordinados](https://cp.nextline.com.br/problem/33) | Programming Fight    | C++  |
 | [triangulos](https://cp.nextline.com.br/problem/36) | Programming Fight    | C++  |
-
+| [2180](https://judge.beecrowd.com/pt/problems/view/2180) | Beecrowd    | Python   |
+| [294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=294) | UVa    | C++   |
+| [2164](https://judge.beecrowd.com/pt/problems/view/2164) | Beecrowd    | C++   |
 
