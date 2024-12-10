@@ -69,4 +69,8 @@ The repository is organized as follows:
 | [2180](https://judge.beecrowd.com/pt/problems/view/2180) | Beecrowd    | Python   |
 | [294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=294) | UVa    | C++   |
 | [2164](https://judge.beecrowd.com/pt/problems/view/2164) | Beecrowd    | C++   |
+| [3405](https://judge.beecrowd.com/pt/problems/view/3405) | Beecrowd    | C++   |
+| [1033](https://judge.beecrowd.com/pt/problems/view/1033) | Beecrowd    | C++   |
+| [1028](https://judge.beecrowd.com/pt/problems/view/1028) | Beecrowd    | C++   |
+
 
