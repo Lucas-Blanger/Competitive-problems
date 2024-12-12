@@ -72,5 +72,7 @@ The repository is organized as follows:
 | [3405](https://judge.beecrowd.com/pt/problems/view/3405) | Beecrowd    | C++   |
 | [1033](https://judge.beecrowd.com/pt/problems/view/1033) | Beecrowd    | C++   |
 | [1028](https://judge.beecrowd.com/pt/problems/view/1028) | Beecrowd    | C++   |
-
+| [2986](https://judge.beecrowd.com/pt/problems/view/2986) | Beecrowd    | C++   |
+| [1232](https://judge.beecrowd.com/pt/problems/view/1232) | Beecrowd    | C++   |
+| [1531](https://judge.beecrowd.com/pt/problems/view/1531) | Beecrowd    | C++   |
 
