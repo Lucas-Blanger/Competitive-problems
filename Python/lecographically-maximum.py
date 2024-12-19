@@ -1,23 +1,33 @@
-def sequencia_maxima_lexicografica(N, arr):
-    # Itera sobre cada posição de bit, da mais alta (30) até a mais baixa (0)
-    for bit in range(30, -1, -1):
-        # Índice máximo que está sendo manipulado
-        indice_max = -1
-        # Procura o maior número com o bit atual igual a 1
-        for i in range(indice_max + 1, N):
-            if (arr[i] >> bit) & 1:
-                indice_max += 1
-                # Troca o número encontrado com a posição mais à frente possível
-                arr[indice_max], arr[i] = arr[i], arr[indice_max]
+n = int(input())
+lista = list(map(int, input().split()))
 
-    return arr
 
-# Lendo entrada
-N = int(input())  # Número de inteiros
-arr = list(map(int, input().split()))  # Lista de inteiros
+lista.sort(reverse=True)
+dif = 0
+aux = 0
 
-# Encontrando a sequência máxima lexicograficamente
-resultado = sequencia_maxima_lexicografica(N, arr)
+for i in range(4):
 
-# Imprimindo o resultado
-print(" ".join(map(str, resultado)))
+    if lista[0] < 32:
+        lista[0] += lista[1]
+        dif = lista[0] - 31
+        if 0 < dif < 31:
+            lista[1] = dif
+        else:
+            lista[1] = 0
+        if lista[0] > 31:
+            lista[0] = 31
+
+    if lista[2] < 32:
+        lista[2] += lista[3]
+        dif = lista[2] - 31
+        if 0 < dif < 31:
+            lista[3] = dif
+        else:
+            lista[3] = 0
+        if lista[2] > 31:
+            lista[2] = 31
+
+    lista.sort(reverse=True)
+
+print(" ".join(map(str, lista)))
