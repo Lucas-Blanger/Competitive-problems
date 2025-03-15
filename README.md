@@ -75,3 +75,15 @@ The repository is organized as follows:
 | [1232](https://www.beecrowd.com.br/repository/UOJ_1232.html) | Beecrowd    | C++   |
 | [amusementParkAdventure](https://codeforces.com/gym/104555/problem/A) | Codeforces    | Python   |
 | [fatigue-fightingVacation](https://codeforces.com/gym/104555/problem/F) | Codeforces    | Python   |
+| [1011](https://www.beecrowd.com.br/repository/UOJ_1011.html) | Beecrowd    | C++   |
+| [1012](https://www.beecrowd.com.br/repository/UOJ_1012.html) | Beecrowd    | C++   |
+| [1013](https://www.beecrowd.com.br/repository/UOJ_1013.html) | Beecrowd    | C++   |
+| [1014](https://www.beecrowd.com.br/repository/UOJ_1014.html) | Beecrowd    | C++   |
+| [1015](https://www.beecrowd.com.br/repository/UOJ_1053.html) | Beecrowd    | C++   |
+| [1018](https://www.beecrowd.com.br/repository/UOJ_1018.html) | Beecrowd    | C++   |
+| [1019](https://www.beecrowd.com.br/repository/UOJ_1019.html) | Beecrowd    | C++   |
+| [1020](https://www.beecrowd.com.br/repository/UOJ_1020.html) | Beecrowd    | C++   |
+| [1021](https://www.beecrowd.com.br/repository/UOJ_1021.html) | Beecrowd    | C++   |
+| [1199](https://www.beecrowd.com.br/repository/UOJ_1199.html) | Beecrowd    | C++   |
+| [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) | Beecrowd    | C++   |
+| [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html) | Beecrowd    | C++   |
