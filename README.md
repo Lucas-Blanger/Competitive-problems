@@ -24,66 +24,69 @@ The repository is organized as follows:
 
 ## Summary
 
-| Nome               | Plataforma       | Linguagem        |
-|:------------------:|:----------------:|:----------------:|
-| [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html) | Beecrowd    | Python    |
-| [2091](https://www.beecrowd.com.br/repository/UOJ_2091.html) | Beecrowd    | Python    |
-| [2136](https://www.beecrowd.com.br/repository/UOJ_2136.html) | Beecrowd    | Python    |
-| [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html) | Beecrowd    | c++    |
-| [joias](https://codeforces.com/gym/105327/problem/E) | Codeforces    | C    |
-| [lecographically-maximum](https://codeforces.com/gym/105327/problem/L) | Codeforces    | Python   |
-| [guerra](https://cp.nextline.com.br/problem/14) | Programming Fight    | c++   |
-| [lexi-challenger](https://codeforces.com/gym/104555/problem/L) | Codeforces    | C   |
-| [Zhans Blender](https://codeforces.com/problemset/problem/2013/A) | Codeforces    | Python   |
-| [1036](https://www.beecrowd.com.br/repository/UOJ_1036.html) | Beecrowd    | Python   |
-| [bomba](https://cp.nextline.com.br/problem/9) | Programming Fight    | Python   |
-| [carteiros](https://cp.nextline.com.br/problem/10) | Programming Fight    | Python   |
-| [2633](https://www.beecrowd.com.br/repository/UOJ_2633.html) | Beecrowd    | Python   |
-| [enzo](https://cp.nextline.com.br/problem/16) | Programming Fight    | Python   |
-| [1020](https://www.beecrowd.com.br/repository/UOJ_1020.html) | Beecrowd    | Python   |
-| [1037](https://www.beecrowd.com.br/repository/UOJ_1037.html) | Beecrowd    | Python   |
-| [1643](https://www.beecrowd.com.br/repository/UOJ_1643.html) | Beecrowd    | Python   |
-| [1878](https://www.beecrowd.com.br/repository/UOJ_1878.html) | Beecrowd    | Python   |
-| [1076](https://www.beecrowd.com.br/repository/UOJ_1086.html) | Beecrowd    | C   |
-| [2095](https://www.beecrowd.com.br/repository/UOJ_2095.html) | Beecrowd    | Python/c++   |
-| [1152](https://www.beecrowd.com.br/repository/UOJ_1152.html) | Beecrowd    | Python   |
-| [10037](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=978) | UVa    | Python   |
-| [410](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=351) | UVa    | Python   |
-| [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html) | Beecrowd    | C   |
-| [438](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=438) | UVa    | Python   |
-| [1124](https://www.beecrowd.com.br/repository/UOJ_1124.html) | Beecrowd    | Python   |
-| [10432](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=10432) | UVa    | Python   |
-| [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html) | Beecrowd    | Python   |
-| [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) | Beecrowd    | Python   |
-| [1798](https://www.beecrowd.com.br/repository/UOJ_1798.html) | Beecrowd    | Python   |
-| [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html) | Beecrowd    | Python   |
-| [1558](https://www.beecrowd.com.br/repository/UOJ_1558.html) | Beecrowd    | c++   |
-| [tourist](https://codeforces.com/contest/76/problem/F) | Codeforces    | c++   |
-| [1495](https://www.beecrowd.com.br/repository/UOJ_1495.html) | Beecrowd    | c++   |
-| [1460](https://www.beecrowd.com.br/repository/UOJ_1460.html) | Beecrowd    | c++   |
-| [1464](https://www.beecrowd.com.br/repository/UOJ_1464.html) | Beecrowd    | c++   |
-| [torres](https://cp.nextline.com.br/problem/34) | Programming Fight    | Python  |
-| [subordinados](https://cp.nextline.com.br/problem/33) | Programming Fight    | C++  |
-| [triangulos](https://cp.nextline.com.br/problem/36) | Programming Fight    | C++  |
-| [2180](https://www.beecrowd.com.br/repository/UOJ_2180.html) | Beecrowd    | Python   |
-| [294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=294) | UVa    | C++   |
-| [2164](https://www.beecrowd.com.br/repository/UOJ_2164.html) | Beecrowd    | C++   |
-| [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html) | Beecrowd    | C++   |
-| [1033](https://www.beecrowd.com.br/repository/UOJ_1033.html) | Beecrowd    | C++   |
-| [1028](https://www.beecrowd.com.br/repository/UOJ_1028.html) | Beecrowd    | C++   |
-| [2986](https://www.beecrowd.com.br/repository/UOJ_2986.html) | Beecrowd    | C++   |
-| [1232](https://www.beecrowd.com.br/repository/UOJ_1232.html) | Beecrowd    | C++   |
-| [amusementParkAdventure](https://codeforces.com/gym/104555/problem/A) | Codeforces    | Python   |
-| [fatigue-fightingVacation](https://codeforces.com/gym/104555/problem/F) | Codeforces    | Python   |
-| [1011](https://www.beecrowd.com.br/repository/UOJ_1011.html) | Beecrowd    | C++   |
-| [1012](https://www.beecrowd.com.br/repository/UOJ_1012.html) | Beecrowd    | C++   |
-| [1013](https://www.beecrowd.com.br/repository/UOJ_1013.html) | Beecrowd    | C++   |
-| [1014](https://www.beecrowd.com.br/repository/UOJ_1014.html) | Beecrowd    | C++   |
-| [1015](https://www.beecrowd.com.br/repository/UOJ_1053.html) | Beecrowd    | C++   |
-| [1018](https://www.beecrowd.com.br/repository/UOJ_1018.html) | Beecrowd    | C++   |
-| [1019](https://www.beecrowd.com.br/repository/UOJ_1019.html) | Beecrowd    | C++   |
-| [1020](https://www.beecrowd.com.br/repository/UOJ_1020.html) | Beecrowd    | C++   |
-| [1021](https://www.beecrowd.com.br/repository/UOJ_1021.html) | Beecrowd    | C++   |
-| [1199](https://www.beecrowd.com.br/repository/UOJ_1199.html) | Beecrowd    | C++   |
-| [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html) | Beecrowd    | C++   |
-| [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html) | Beecrowd    | C++   |
+|                                                  Nome                                                  |    Plataforma     | Linguagem  |
+| :----------------------------------------------------------------------------------------------------: | :---------------: | :--------: |
+|                      [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html)                      |     Beecrowd      |   Python   |
+|                      [2091](https://www.beecrowd.com.br/repository/UOJ_2091.html)                      |     Beecrowd      |   Python   |
+|                      [2136](https://www.beecrowd.com.br/repository/UOJ_2136.html)                      |     Beecrowd      |   Python   |
+|                      [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html)                      |     Beecrowd      |    c++     |
+|                          [joias](https://codeforces.com/gym/105327/problem/E)                          |    Codeforces     |     C      |
+|                 [lecographically-maximum](https://codeforces.com/gym/105327/problem/L)                 |    Codeforces     |   Python   |
+|                            [guerra](https://cp.nextline.com.br/problem/14)                             | Programming Fight |    c++     |
+|                     [lexi-challenger](https://codeforces.com/gym/104555/problem/L)                     |    Codeforces     |     C      |
+|                   [Zhans Blender](https://codeforces.com/problemset/problem/2013/A)                    |    Codeforces     |   Python   |
+|                      [1036](https://www.beecrowd.com.br/repository/UOJ_1036.html)                      |     Beecrowd      |   Python   |
+|                             [bomba](https://cp.nextline.com.br/problem/9)                              | Programming Fight |   Python   |
+|                           [carteiros](https://cp.nextline.com.br/problem/10)                           | Programming Fight |   Python   |
+|                      [2633](https://www.beecrowd.com.br/repository/UOJ_2633.html)                      |     Beecrowd      |   Python   |
+|                             [enzo](https://cp.nextline.com.br/problem/16)                              | Programming Fight |   Python   |
+|                      [1020](https://www.beecrowd.com.br/repository/UOJ_1020.html)                      |     Beecrowd      |   Python   |
+|                      [1037](https://www.beecrowd.com.br/repository/UOJ_1037.html)                      |     Beecrowd      |   Python   |
+|                      [1643](https://www.beecrowd.com.br/repository/UOJ_1643.html)                      |     Beecrowd      |   Python   |
+|                      [1878](https://www.beecrowd.com.br/repository/UOJ_1878.html)                      |     Beecrowd      |   Python   |
+|                      [1076](https://www.beecrowd.com.br/repository/UOJ_1086.html)                      |     Beecrowd      |     C      |
+|                      [2095](https://www.beecrowd.com.br/repository/UOJ_2095.html)                      |     Beecrowd      | Python/c++ |
+|                      [1152](https://www.beecrowd.com.br/repository/UOJ_1152.html)                      |     Beecrowd      |   Python   |
+|  [10037](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=978)  |        UVa        |   Python   |
+|   [410](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=351)   |        UVa        |   Python   |
+|                      [1223](https://www.beecrowd.com.br/repository/UOJ_1223.html)                      |     Beecrowd      |     C      |
+|   [438](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=438)   |        UVa        |   Python   |
+|                      [1124](https://www.beecrowd.com.br/repository/UOJ_1124.html)                      |     Beecrowd      |   Python   |
+| [10432](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=10432) |        UVa        |   Python   |
+|                      [1291](https://www.beecrowd.com.br/repository/UOJ_1291.html)                      |     Beecrowd      |   Python   |
+|                      [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html)                      |     Beecrowd      |   Python   |
+|                      [1798](https://www.beecrowd.com.br/repository/UOJ_1798.html)                      |     Beecrowd      |   Python   |
+|                      [1310](https://www.beecrowd.com.br/repository/UOJ_1310.html)                      |     Beecrowd      |   Python   |
+|                      [1558](https://www.beecrowd.com.br/repository/UOJ_1558.html)                      |     Beecrowd      |    c++     |
+|                         [tourist](https://codeforces.com/contest/76/problem/F)                         |    Codeforces     |    c++     |
+|                      [1495](https://www.beecrowd.com.br/repository/UOJ_1495.html)                      |     Beecrowd      |    c++     |
+|                      [1460](https://www.beecrowd.com.br/repository/UOJ_1460.html)                      |     Beecrowd      |    c++     |
+|                      [1464](https://www.beecrowd.com.br/repository/UOJ_1464.html)                      |     Beecrowd      |    c++     |
+|                            [torres](https://cp.nextline.com.br/problem/34)                             | Programming Fight |   Python   |
+|                         [subordinados](https://cp.nextline.com.br/problem/33)                          | Programming Fight |    C++     |
+|                          [triangulos](https://cp.nextline.com.br/problem/36)                           | Programming Fight |    C++     |
+|                      [2180](https://www.beecrowd.com.br/repository/UOJ_2180.html)                      |     Beecrowd      |   Python   |
+|   [294](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=294)   |        UVa        |    C++     |
+|                      [2164](https://www.beecrowd.com.br/repository/UOJ_2164.html)                      |     Beecrowd      |    C++     |
+|                      [3405](https://www.beecrowd.com.br/repository/UOJ_3405.html)                      |     Beecrowd      |    C++     |
+|                      [1033](https://www.beecrowd.com.br/repository/UOJ_1033.html)                      |     Beecrowd      |    C++     |
+|                      [1028](https://www.beecrowd.com.br/repository/UOJ_1028.html)                      |     Beecrowd      |    C++     |
+|                      [2986](https://www.beecrowd.com.br/repository/UOJ_2986.html)                      |     Beecrowd      |    C++     |
+|                      [1232](https://www.beecrowd.com.br/repository/UOJ_1232.html)                      |     Beecrowd      |    C++     |
+|                 [amusementParkAdventure](https://codeforces.com/gym/104555/problem/A)                  |    Codeforces     |   Python   |
+|                [fatigue-fightingVacation](https://codeforces.com/gym/104555/problem/F)                 |    Codeforces     |   Python   |
+|                      [1011](https://www.beecrowd.com.br/repository/UOJ_1011.html)                      |     Beecrowd      |    C++     |
+|                      [1012](https://www.beecrowd.com.br/repository/UOJ_1012.html)                      |     Beecrowd      |    C++     |
+|                      [1013](https://www.beecrowd.com.br/repository/UOJ_1013.html)                      |     Beecrowd      |    C++     |
+|                      [1014](https://www.beecrowd.com.br/repository/UOJ_1014.html)                      |     Beecrowd      |    C++     |
+|                      [1015](https://www.beecrowd.com.br/repository/UOJ_1053.html)                      |     Beecrowd      |    C++     |
+|                      [1018](https://www.beecrowd.com.br/repository/UOJ_1018.html)                      |     Beecrowd      |    C++     |
+|                      [1019](https://www.beecrowd.com.br/repository/UOJ_1019.html)                      |     Beecrowd      |    C++     |
+|                      [1020](https://www.beecrowd.com.br/repository/UOJ_1020.html)                      |     Beecrowd      |    C++     |
+|                      [1021](https://www.beecrowd.com.br/repository/UOJ_1021.html)                      |     Beecrowd      |    C++     |
+|                      [1199](https://www.beecrowd.com.br/repository/UOJ_1199.html)                      |     Beecrowd      |    C++     |
+|                      [1329](https://www.beecrowd.com.br/repository/UOJ_1329.html)                      |     Beecrowd      |    C++     |
+|                      [1397](https://www.beecrowd.com.br/repository/UOJ_1397.html)                      |     Beecrowd      |    C++     |
+|                      [1035](https://www.beecrowd.com.br/repository/UOJ_1035.html)                      |     Beecrowd      |    C++     |
+|                      [1036](https://www.beecrowd.com.br/repository/UOJ_1036.html)                      |     Beecrowd      |    C++     |
+|                      [1037](https://www.beecrowd.com.br/repository/UOJ_1038.html)                      |     Beecrowd      |    C++     |
