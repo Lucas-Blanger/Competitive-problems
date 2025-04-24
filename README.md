@@ -105,3 +105,15 @@ The repository is organized as follows:
 |                      [1846](https://www.beecrowd.com.br/repository/UOJ_1846.html)                      |     Beecrowd      |   Python   |
 |                      [1107](https://www.beecrowd.com.br/repository/UOJ_1107.html)                      |     Beecrowd      |    C++     |
 |                      [1846](https://www.beecrowd.com.br/repository/UOJ_1846.html)                      |     Beecrowd      |    C++     |
+|                      [1059](https://www.beecrowd.com.br/repository/UOJ_1059.html)                      |     Beecrowd      |    C++     |
+|                      [1060](https://www.beecrowd.com.br/repository/UOJ_1060.html)                      |     Beecrowd      |    C++     |
+|                      [1064](https://www.beecrowd.com.br/repository/UOJ_1064.html)                      |     Beecrowd      |    C++     |
+|                      [1065](https://www.beecrowd.com.br/repository/UOJ_1065.html)                      |     Beecrowd      |    C++     |
+|                      [1066](https://www.beecrowd.com.br/repository/UOJ_1066.html)                      |     Beecrowd      |    C++     |
+|                      [1067](https://www.beecrowd.com.br/repository/UOJ_1067.html)                      |     Beecrowd      |    C++     |
+|                      [1070](https://www.beecrowd.com.br/repository/UOJ_1070.html)                      |     Beecrowd      |    C++     |
+|                      [1071](https://www.beecrowd.com.br/repository/UOJ_1071.html)                      |     Beecrowd      |    C++     |
+|                      [1072](https://www.beecrowd.com.br/repository/UOJ_1072.html)                      |     Beecrowd      |    C++     |
+|                      [1073](https://www.beecrowd.com.br/repository/UOJ_1073.html)                      |     Beecrowd      |    C++     |
+|                      [1074](https://www.beecrowd.com.br/repository/UOJ_1074.html)                      |     Beecrowd      |    C++     |
+|                      [1075](https://www.beecrowd.com.br/repository/UOJ_1075.html)                      |     Beecrowd      |    C++     |
