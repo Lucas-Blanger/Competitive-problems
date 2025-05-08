@@ -139,3 +139,13 @@ The repository is organized as follows:
 |                      [1198](https://www.beecrowd.com.br/repository/UOJ_1198.html)                      |     Beecrowd      |   Python   |
 |                      [2253](https://www.beecrowd.com.br/repository/UOJ_2253.html)                      |     Beecrowd      |   Python   |
 |                      [3227](https://www.beecrowd.com.br/repository/UOJ_3227.html)                      |     Beecrowd      |   Python   |
+|                      [1253](https://www.beecrowd.com.br/repository/UOJ_1253.html)                      |     Beecrowd      |   Python   |
+|                      [1552](https://www.beecrowd.com.br/repository/UOJ_1552.html)                      |     Beecrowd      |    C++     |
+|                      [1026](https://www.beecrowd.com.br/repository/UOJ_1026.html)                      |     Beecrowd      |   Python   |
+|                      [1030](https://www.beecrowd.com.br/repository/UOJ_1030.html)                      |     Beecrowd      |   Python   |
+|                      [1031](https://www.beecrowd.com.br/repository/UOJ_1031.html)                      |     Beecrowd      |   Python   |
+|                      [1245](https://www.beecrowd.com.br/repository/UOJ_1245.html)                      |     Beecrowd      |   Python   |
+|                      [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html)                      |     Beecrowd      | JavaScript |
+|                      [1514](https://www.beecrowd.com.br/repository/UOJ_1514.html)                      |     Beecrowd      | JavaScript |
+|                      [1542](https://www.beecrowd.com.br/repository/UOJ_1542.html)                      |     Beecrowd      |   Python   |
+|                      [1559](https://www.beecrowd.com.br/repository/UOJ_1526.html)                      |     Beecrowd      |   Python   |
