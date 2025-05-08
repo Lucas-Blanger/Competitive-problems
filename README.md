@@ -120,3 +120,7 @@ The repository is organized as follows:
 |                      [1078](https://www.beecrowd.com.br/repository/UOJ_1078.html)                      |     Beecrowd      |    C++     |
 |                      [1079](https://www.beecrowd.com.br/repository/UOJ_1079.html)                      |     Beecrowd      |    C++     |
 |                      [1080](https://www.beecrowd.com.br/repository/UOJ_1080.html)                      |     Beecrowd      |    C++     |
+|                      [1509](https://www.beecrowd.com.br/repository/UOJ_1509.html)                      |     Beecrowd      |    C++     |
+|                      [1094](https://www.beecrowd.com.br/repository/UOJ_1094.html)                      |     Beecrowd      |    C++     |
+|                      [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html)                      |     Beecrowd      |    C++     |
+|                      [1287](https://www.beecrowd.com.br/repository/UOJ_1287.html)                      |     Beecrowd      |   Python   |
