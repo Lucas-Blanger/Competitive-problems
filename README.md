@@ -183,3 +183,6 @@ The repository is organized as follows:
 |                      [1069](https://www.beecrowd.com.br/repository/UOJ_1069.html)                      |     Beecrowd      |   Python   |
 |                      [1237](https://www.beecrowd.com.br/repository/UOJ_1237.html)                      |     Beecrowd      |    C++     |
 |                      [1527](https://www.beecrowd.com.br/repository/UOJ_1527.html)                      |     Beecrowd      |   Python   |
+|                [Ambiguous Schrödinger Cat](https://codeforces.com/gym/105925/problem/A)                |    Codeforces     |    C++     |
+|                 [qPhones Production Line](https://codeforces.com/gym/105925/problem/L)                 |    Codeforces     |    C++     |
+|                   [Quantum Decoherence](https://codeforces.com/gym/105925/problem/D)                   |    Codeforces     |    C++     |
