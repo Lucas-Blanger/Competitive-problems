@@ -186,3 +186,4 @@ The repository is organized as follows:
 |                [Ambiguous Schrödinger Cat](https://codeforces.com/gym/105925/problem/A)                |    Codeforces     |    C++     |
 |                 [qPhones Production Line](https://codeforces.com/gym/105925/problem/L)                 |    Codeforces     |    C++     |
 |                   [Quantum Decoherence](https://codeforces.com/gym/105925/problem/D)                   |    Codeforces     |    C++     |
+|                  [Particle Energization](https://codeforces.com/gym/105925/problem/E)                  |    Codeforces     |    C++     |
