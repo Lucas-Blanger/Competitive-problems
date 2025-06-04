@@ -187,3 +187,9 @@ The repository is organized as follows:
 |                 [qPhones Production Line](https://codeforces.com/gym/105925/problem/L)                 |    Codeforces     |    C++     |
 |                   [Quantum Decoherence](https://codeforces.com/gym/105925/problem/D)                   |    Codeforces     |    C++     |
 |                  [Particle Energization](https://codeforces.com/gym/105925/problem/E)                  |    Codeforces     |    C++     |
+|                      [1168](https://www.beecrowd.com.br/repository/UOJ_1168.html)                      |     Beecrowd      |    C++     |
+|                      [1160](https://www.beecrowd.com.br/repository/UOJ_1160.html)                      |     Beecrowd      |    C++     |
+|                      [1183](https://www.beecrowd.com.br/repository/UOJ_1183.html)                      |     Beecrowd      |    C++     |
+|                      [1837](https://www.beecrowd.com.br/repository/UOJ_1837.html)                      |     Beecrowd      |    C++     |
+|                      [1973](https://www.beecrowd.com.br/repository/UOJ_1973.html)                      |     Beecrowd      |    C++     |
+|                      [2028](https://www.beecrowd.com.br/repository/UOJ_2028.html)                      |     Beecrowd      |    C++     |
