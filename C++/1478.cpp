@@ -25,14 +25,6 @@ int main () {
             cont = 1;
         }
         
-        // cont = 2;
-        // for(int j = 0; j < n - 1; j++){
-        //     for(int i = j + 1; j < n; j++){
-        //         mat[i][j] = cont;
-        //         cont++;
-        //     }
-        //     cont = 2;
-        // }
 
         int aux;
         cont = 2;
