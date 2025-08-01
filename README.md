@@ -241,3 +241,6 @@ The repository is organized as follows:
 |                      [2718](https://www.beecrowd.com.br/repository/UOJ_2718.html)                      |     Beecrowd      |    C++     |
 |                      [2715](https://www.beecrowd.com.br/repository/UOJ_2715.html)                      |     Beecrowd      |    C++     |
 |                      [1126](https://www.beecrowd.com.br/repository/UOJ_1126.html)                      |     Beecrowd      |    C++     |
+|            [Fractions arebetterwhencontinued](https://codeforces.com/gym/105327/problem/F)             |    Codeforces     |    C++     |
+|                 [EnigmaoftheJewelryCase](https://codeforces.com/gym/105327/problem/E)                  |    Codeforces     |    C++     |
+|                  [AttentiontotheMeeting](https://codeforces.com/gym/105327/problem/A)                  |    Codeforces     |    C++     |
