@@ -244,3 +244,14 @@ The repository is organized as follows:
 |            [Fractions arebetterwhencontinued](https://codeforces.com/gym/105327/problem/F)             |    Codeforces     |    C++     |
 |                 [EnigmaoftheJewelryCase](https://codeforces.com/gym/105327/problem/E)                  |    Codeforces     |    C++     |
 |                  [AttentiontotheMeeting](https://codeforces.com/gym/105327/problem/A)                  |    Codeforces     |    C++     |
+|                      [1194](https://www.beecrowd.com.br/repository/UOJ_1194.html)                      |     Beecrowd      |    C++     |
+|                      [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html)                      |     Beecrowd      |    C++     |
+|                      [2679](https://www.beecrowd.com.br/repository/UOJ_2679.html)                      |     Beecrowd      |    C++     |
+|                      [3209](https://www.beecrowd.com.br/repository/UOJ_3209.html)                      |     Beecrowd      |    C++     |
+|                      [1767](https://www.beecrowd.com.br/repository/UOJ_1767.html)                      |     Beecrowd      |    C++     |
+|                      [1838](https://www.beecrowd.com.br/repository/UOJ_1838.html)                      |     Beecrowd      |    C++     |
+|                      [1262](https://www.beecrowd.com.br/repository/UOJ_1262.html)                      |     Beecrowd      |    C++     |
+|                      [2731](https://www.beecrowd.com.br/repository/UOJ_2731.html)                      |     Beecrowd      |    C++     |
+|                      [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html)                      |     Beecrowd      |    C++     |
+|                      [1631](https://www.beecrowd.com.br/repository/UOJ_1631.html)                      |     Beecrowd      |    C++     |
+|                        [Game-Show](https://codeforces.com/gym/102861/problem/G)                        |    Codeforces     |    C++     |
