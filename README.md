@@ -255,3 +255,4 @@ The repository is organized as follows:
 |                      [1340](https://www.beecrowd.com.br/repository/UOJ_1340.html)                      |     Beecrowd      |    C++     |
 |                      [1631](https://www.beecrowd.com.br/repository/UOJ_1631.html)                      |     Beecrowd      |    C++     |
 |                        [Game-Show](https://codeforces.com/gym/102861/problem/G)                        |    Codeforces     |    C++     |
+|                       [Battleship](https://codeforces.com/gym/102861/problem/B)                        |    Codeforces     |    C++     |
