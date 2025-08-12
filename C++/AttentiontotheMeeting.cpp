@@ -3,18 +3,15 @@
     using namespace std;
      
     int main(){
-        
         int n, k;
+        cin >> n >> k;
+
+        int res;
+
+        res = (k - (n-1) ) / n;
+
+        cout << res << endl;
+
         
-        cin >> n;
-     
-        cin >> k;
-        
-        int t;
-     
-        t = (k - (n - 1)) / n;
-     
-        
-        
-        cout << t << endl;
+
     }

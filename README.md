@@ -257,3 +257,5 @@ The repository is organized as follows:
 |                        [Game-Show](https://codeforces.com/gym/102861/problem/G)                        |    Codeforces     |    C++     |
 |                       [Battleship](https://codeforces.com/gym/102861/problem/B)                        |    Codeforces     |    C++     |
 |                      [1193](https://www.beecrowd.com.br/repository/UOJ_1193.html)                      |     Beecrowd      |    C++     |
+|                        [Kathmandu](https://codeforces.com/gym/103388/problem/K)                        |    Codeforces     |    C++     |
+|                 [InterceptingInformation](https://codeforces.com/gym/103960/problem/I)                 |    Codeforces     |    C++     |

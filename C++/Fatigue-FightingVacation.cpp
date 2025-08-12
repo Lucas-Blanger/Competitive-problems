@@ -4,35 +4,34 @@
 using namespace std;
 
 int main(){
-    int d,c, r;
-
+    int d, c ,r;
     cin >> d >> c >> r;
-    int can[c];
-    int re[r];
-    int total = 0;
 
+    int rev[r];
+    int can[c];
     for(int i = 0; i < c; i++){
         cin >> can[i];
     }
+    int quant = 0;
 
     for(int i = 0; i < r; i++){
-        cin >> re[i];
-        d += re[i];
-        total++;
+        cin >> rev[i];
+        d += rev[i];
+        quant++;
     }
 
-
     for(int i = 0; i < c; i++){
-        if(can[i] <= d){
-            total++;
+        if(d >= can[i]){
+            quant++;
             d -= can[i];
-        }else{
+        } else {
             break;
         }
     }
 
-    cout << total << endl;
+    cout << quant << endl;
 
+   
 
 
 
