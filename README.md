@@ -259,3 +259,8 @@ The repository is organized as follows:
 |                      [1193](https://www.beecrowd.com.br/repository/UOJ_1193.html)                      |     Beecrowd      |    C++     |
 |                        [Kathmandu](https://codeforces.com/gym/103388/problem/K)                        |    Codeforces     |    C++     |
 |                 [InterceptingInformation](https://codeforces.com/gym/103960/problem/I)                 |    Codeforces     |    C++     |
+|           [FindingMaximalNon-TrivialMonotones](https://codeforces.com/gym/103960/problem/A)            |    Codeforces     |    C++     |
+|                      [1220](https://www.beecrowd.com.br/repository/UOJ_1220.html)                      |     Beecrowd      |    C++     |
+|                      [1233](https://www.beecrowd.com.br/repository/UOJ_1233.html)                      |     Beecrowd      |    C++     |
+|                      [1040](https://www.beecrowd.com.br/repository/UOJ_1040.html)                      |     Beecrowd      |    C++     |
+|                      [1048](https://www.beecrowd.com.br/repository/UOJ_1048.html)                      |     Beecrowd      |    C++     |
