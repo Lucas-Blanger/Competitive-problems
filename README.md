@@ -265,3 +265,4 @@ The repository is organized as follows:
 |                      [1040](https://www.beecrowd.com.br/repository/UOJ_1040.html)                      |     Beecrowd      |    C++     |
 |                      [1048](https://www.beecrowd.com.br/repository/UOJ_1048.html)                      |     Beecrowd      |    C++     |
 |                    [HandlingtheBlocks](https://codeforces.com/gym/103388/problem/H)                    |    Codeforces     |    C++     |
+|                       [Fastminton](https://codeforces.com/gym/102861/problem/F)                        |    Codeforces     |    C++     |
