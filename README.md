@@ -270,3 +270,5 @@ The repository is organized as follows:
 |                      [2880](https://www.beecrowd.com.br/repository/UOJ_2880.html)                      |     Beecrowd      |    C++     |
 |                      [2968](https://www.beecrowd.com.br/repository/UOJ_2968.html)                      |     Beecrowd      |    C++     |
 |                      [2884](https://www.beecrowd.com.br/repository/UOJ_2884.html)                      |     Beecrowd      |    C++     |
+|                      [2879](https://www.beecrowd.com.br/repository/UOJ_2879.html)                      |     Beecrowd      |    C++     |
+|                      [2972](https://www.beecrowd.com.br/repository/UOJ_2972.html)                      |     Beecrowd      |    C++     |
