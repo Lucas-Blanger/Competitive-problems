@@ -4,25 +4,20 @@
 using namespace std;
 
 int main(){
-    int n, m, y= 0;
-    bool certo;
+    int m,n;
     cin >> n >> m;
-    vector< vector<int> >v(n, vector<int>(m));
-    for (int i=0; i<n; ++i)
-    {
-        certo = true;
-        for (int j = 0; j < m; j++){
-            cin >> v[i][j];
+    vector<vector<int>> jog(n, vector<int>(m,0)); 
+
+    int cont = 0;
+    for(int i = 0; i < n;i++){
+        bool pass = true;
+        for(int j = 0; j < m; j++){
+            cin >> jog[i][j];
+            if(jog[i][j] == 0) pass = false;
         }
-        for (int j = 0; j < m; j++){
-            if (v[i][j]==0){
-                certo = false;
-            }
-    
-        }
-        if (certo)
-            y++;
+        if(pass) cont++;
     }
-    cout << y << endl;
+
+    cout << cont << endl;
 
 }
