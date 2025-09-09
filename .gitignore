@@ -1,4 +1,5 @@
 .vscode/
+output/
 C/output/
 C++/output/
 C/build/
