@@ -14,22 +14,24 @@ int main(){
 
  
 
-        int linhas = 1;           
-        int caractere = 0;         
+        int linhas = 1, caractere = c;
 
         string palavra;
         stringstream ss(texto);
-
         while (ss >> palavra) {
-            int len = palavra.size();
-
-            if (caractere == 0) {
-                caractere = len;
-            } else if (caractere + 1 + len <= c) {
-                caractere += 1 + len;
-            } else {
+            if(palavra.size() + 1 <= caractere){
+                caractere -= (palavra.size() + 1);
+            }else if(palavra.size() <= caractere){
+                caractere -= (palavra.size());
+            }else{
                 linhas++;
-                caractere = len;
+                caractere = c;
+                if(palavra.size() == caractere){
+                    caractere -= palavra.size();
+                }else{
+                    caractere -=  (palavra.size() + 1);
+                }
+
             }
         }
 
