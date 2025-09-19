@@ -299,3 +299,5 @@ The repository is organized as follows:
 |                      [1245](https://www.beecrowd.com.br/repository/UOJ_1245.html)                      |     Beecrowd      |    C++     |
 |                      [1225](https://www.beecrowd.com.br/repository/UOJ_1225.html)                      |     Beecrowd      |    C++     |
 |                      [1247](https://www.beecrowd.com.br/repository/UOJ_1247.html)                      |     Beecrowd      |    C++     |
+|                    [Collatzpolynomial](https://codeforces.com/gym/106073/problem/C)                    |    Codeforces     |    C++     |
+|                        [Muralhas](https://codeforces.com/gym/106073/problem/M)                         |    Codeforces     |    C++     |

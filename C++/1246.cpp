@@ -1,58 +1,43 @@
-#include <iostream>
-#include <vector>
-#include <map>
+#include <bits/stdc++.h>
 
-int main() {
-    int C, N;
-    while (std::cin >> C >> N) {
-        std::vector<int> estacionamento(C, 0);
-        std::map<int, int> veiculos;
-        int faturamentoTotal = 0;
+using namespace std;
 
-        for (int i = 0; i < N; ++i) {
-            char tipoEvento;
-            std::cin >> tipoEvento;
+int main(){
+    int d, n;
 
-            if (tipoEvento == 'C') {
-                int placa, comprimento;
-                std::cin >> placa >> comprimento;
+    while(cin >> d >> n){
+        int money = 0, distl = d;
 
-                bool estacionado = false;
-                for (int j = 0; j <= C - comprimento; ++j) {
-                    bool espacoDisponivel = true;
-                    for (int k = j; k < j + comprimento; ++k) {
-                        if (estacionamento[k] != 0) {
-                            espacoDisponivel = false;
-                            break;
-                        }
-                    }
-
-                    if (espacoDisponivel) {
-                        for (int k = j; k < j + comprimento; ++k) {
-                            estacionamento[k] = placa;
-                        }
-                        veiculos[placa] = comprimento;
-                        faturamentoTotal += 10;
-                        estacionado = true;
-                        break;
-                    }
-                }
-
-            } else if (tipoEvento == 'S') {
-                int placa;
-                std::cin >> placa;
-
-                int comprimento = veiculos[placa];
-                for (int j = 0; j < C; ++j) {
-                    if (estacionamento[j] == placa) {
-                        estacionamento[j] = 0;
+        vector<tuple<char, int, int>> c;
+        for(int i = 0; i < n; i++){
+            char a;
+            int p, t = 0;
+            cin >> a;
+            if(a == 'C'){
+                cin >> p >> t;
+                c.push_back(make_tuple(a, p, t));
+            }else{
+                cin >> p;
+                c.push_back(make_tuple(a, p, t));
+                for(int j = 0; j < c.size(); j++ ){
+                    if(get<1>(c[j]) == get<1>(c[i])){
+                        get<2>(c[i]) = get<2>(c[j]);
                     }
                 }
             }
         }
 
-        std::cout << faturamentoTotal << std::endl;
-    }
+        for(int i = 0; i < c.size(); i++){
+            if(get<2>(c[i]) <= distl && get<0>(c[i]) == 'C'){
+                money += 10;
+                distl -= get<2>(c[i]);
+            }
+            if(get<0>(c[i]) == 'S'){
+                distl += get<2>(c[i]); 
+            }
+          
+        }
 
-    return 0;
+        cout << money << endl;
+    }
 }
