@@ -36,7 +36,7 @@ int main() {
                     aux[i] = 0;
                 }
             }
-
+https://codeforces.com/gym/106073/problem/J
             pol = aux;
         }else{
             for (int i = 1; i < pol.size(); i++) {
