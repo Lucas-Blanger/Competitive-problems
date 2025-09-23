@@ -302,3 +302,4 @@ The repository is organized as follows:
 |                    [Collatzpolynomial](https://codeforces.com/gym/106073/problem/C)                    |    Codeforces     |    C++     |
 |                        [Muralhas](https://codeforces.com/gym/106073/problem/M)                         |    Codeforces     |    C++     |
 |                        [JoaoJoao](https://codeforces.com/gym/106073/problem/J)                         |    Codeforces     |    C++     |
+|                       [healthymenu](https://codeforces.com/gym/106073/problem/A)                       |    Codeforces     |    C++     |
