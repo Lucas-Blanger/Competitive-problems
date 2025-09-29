@@ -303,3 +303,5 @@ The repository is organized as follows:
 |                        [Muralhas](https://codeforces.com/gym/106073/problem/M)                         |    Codeforces     |    C++     |
 |                        [JoaoJoao](https://codeforces.com/gym/106073/problem/J)                         |    Codeforces     |    C++     |
 |                       [healthymenu](https://codeforces.com/gym/106073/problem/A)                       |    Codeforces     |    C++     |
+|                      [1140](https://www.beecrowd.com.br/repository/UOJ_1140.html)                      |     Beecrowd      |    C++     |
+|                      [1259](https://www.beecrowd.com.br/repository/UOJ_1259.html)                      |     Beecrowd      |    C++     |
