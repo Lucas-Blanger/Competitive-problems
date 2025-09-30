@@ -305,3 +305,5 @@ The repository is organized as follows:
 |                       [healthymenu](https://codeforces.com/gym/106073/problem/A)                       |    Codeforces     |    C++     |
 |                      [1140](https://www.beecrowd.com.br/repository/UOJ_1140.html)                      |     Beecrowd      |    C++     |
 |                      [1259](https://www.beecrowd.com.br/repository/UOJ_1259.html)                      |     Beecrowd      |    C++     |
+|                      [1103](https://www.beecrowd.com.br/repository/UOJ_1103.html)                      |     Beecrowd      |    C++     |
+|                           [100](https://onlinejudge.org/external/1/100.pdf)                            |    UVa Online     |    C++     |
