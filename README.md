@@ -310,3 +310,4 @@ The repository is organized as follows:
 |                        [10038](https://onlinejudge.org/external/100/10038.pdf)                         |    UVa Online     |    C++     |
 |                      [1244](https://www.beecrowd.com.br/repository/UOJ_1244.html)                      |     Beecrowd      |    C++     |
 |                      [1023](https://www.beecrowd.com.br/repository/UOJ_1023.html)                      |     Beecrowd      |    C++     |
+|                      [1087](https://www.beecrowd.com.br/repository/UOJ_1087.html)                      |     Beecrowd      |    C++     |
