@@ -330,3 +330,13 @@ The repository is organized as follows:
 |                      [1766](https://www.beecrowd.com.br/repository/UOJ_1766.html)                      |     Beecrowd      |    C++     |
 |                      [1026](https://www.beecrowd.com.br/repository/UOJ_1026.html)                      |     Beecrowd      |    C++     |
 |                      [1104](https://www.beecrowd.com.br/repository/UOJ_1104.html)                      |     Beecrowd      |    C++     |
+|                      [1024](https://www.beecrowd.com.br/repository/UOJ_1024.html)                      |     Beecrowd      |    C++     |
+|                      [1234](https://www.beecrowd.com.br/repository/UOJ_1234.html)                      |     Beecrowd      |    C++     |
+|                      [1235](https://www.beecrowd.com.br/repository/UOJ_1235.html)                      |     Beecrowd      |    C++     |
+|                      [1241](https://www.beecrowd.com.br/repository/UOJ_1241.html)                      |     Beecrowd      |    C++     |
+|                      [1243](https://www.beecrowd.com.br/repository/UOJ_1243.html)                      |     Beecrowd      |    C++     |
+|                      [1248](https://www.beecrowd.com.br/repository/UOJ_1248.html)                      |     Beecrowd      |    C++     |
+|                      [1263](https://www.beecrowd.com.br/repository/UOJ_1263.html)                      |     Beecrowd      |    C++     |
+|                      [1273](https://www.beecrowd.com.br/repository/UOJ_1273.html)                      |     Beecrowd      |    C++     |
+|                      [1328](https://www.beecrowd.com.br/repository/UOJ_1328.html)                      |     Beecrowd      |    C++     |
+|                      [2694](https://www.beecrowd.com.br/repository/UOJ_2694.html)                      |     Beecrowd      |    C++     |
