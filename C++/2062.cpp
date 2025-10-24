@@ -4,26 +4,38 @@ using namespace std;
 
 int main(){
     int n;
-    string palavra;
-
     cin >> n;
 
-    for(int i = 0; i < n; ++i){
-        cin >> palavra;
+    string palavras[n];
+    string r[n];
 
-        if(i)   cout << ' ';
-        if(palavra.length() == 3){
-            if(palavra[0] == 'O' && palavra[1] == 'B')
-                cout << "OBI";
-            else if(palavra[0] == 'U' && palavra[1] == 'R')
-                cout << "URI";
-            else{
-                cout << palavra;
+    for(int i = 0; i < n; i++){
+        cin >> palavras[i];
+    }
+
+    for(int i = 0; i < n; i++){
+        string palavra = palavras[i];
+
+        if(palavra.size() == 3){
+            if(palavra[0] == 'O' && palavra[1] == 'B'){
+                r[i] = "OBI";
+            }else if(palavra[0] == 'U' && palavra[1] == 'R'){
+                r[i] = "URI";
+            }else{
+                r[i] = palavra;
             }
         }else{
-            cout << palavra;
+            r[i] = palavra;
         }
     }
-    cout << endl;
+    for(int i = 0; i < n; i++){
+        if(i == n-1) cout << r[i] << endl;
+        else cout << r[i] << ' ';
+    }
+
+
+    
+
+
 
 }
