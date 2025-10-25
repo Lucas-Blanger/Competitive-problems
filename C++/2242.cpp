@@ -3,33 +3,29 @@
 using namespace std;
 
 int main(){
-    string riso;
+    string risada;
+    cin >> risada;
 
-    cin >> riso;
-    string novoriso = "";
-    string risocopia;
+    string nova = "";
 
-    for(int i = 0; i < riso.size(); i++){
-        if(riso[i] == 'a' || riso[i] == 'e' || riso[i] == 'i' || riso[i] == 'o' || riso[i] == 'u'){
-            novoriso += riso[i];
-        }
-    }
-    risocopia = novoriso;
-    reverse(risocopia.begin(), risocopia.end());
-
-    bool pass = true;
-
-    for(int i = 0; i < novoriso.size();i++){
-        if(novoriso[i] != risocopia[i]){
-            pass = false;
-        }
+    for(int i = 0; i < risada.size(); i++){
+        if(risada[i] == 'a') nova += 'a';
+        else if(risada[i] == 'e') nova += 'e';
+        else if(risada[i] == 'i') nova += 'i';
+        else if(risada[i] == 'o') nova += 'o';
+        else if(risada[i] == 'u') nova += 'u';
     }
 
-    if(pass){
-        cout << 'S' << endl;
-    }else {
-        cout << 'N' << endl;
+    string contra = "";
+
+    for(int i = nova.size()-1; i >= 0; i--){
+        contra += nova[i];
     }
+
+    if(contra == nova) cout << 'S' << endl;
+    else cout << 'N' << endl;
+
+    
 
 
 
