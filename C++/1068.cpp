@@ -23,6 +23,7 @@ int main(){
 
             }else{
                 if(expressao[i] == ')' || expressao[i] == '(') ex.push(expressao[i]);
+
             }
         }
         if(ex.empty()) cout << "correct" << endl;
