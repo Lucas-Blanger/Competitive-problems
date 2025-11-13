@@ -9,48 +9,43 @@ int main(){
         int n;
         cin >> n;
         if(n == 0) break;
+
+
+
         while(true){
-            stack<int> esta;
-            vector<int> ordem;
-          
             int x;
+            vector<int> como;
             for(int i = 0; i < n; i++){
                 cin >> x;
                 if(x == 0) break;
-                ordem.push_back(x);
+                como.push_back(x);
             }
             if(x == 0) break;
 
+            stack<int> estacao;
             bool pass = true;
-            int next = 1;
+            int j = 1;
             for(int i = 0; i < n; i++){
-                int aux = ordem[i];
-
-                while(next <= n && (esta.empty() || esta.top() != aux)){
-                    esta.push(next);
-                    next++;
+                int aux = como[i];
+                if(aux == j){
+                    j++;
+                }else{
+                    while((j <= n && (estacao.empty() || estacao.top() != aux))){
+                        estacao.push(j);
+                        j++;
+                    }
+                    if(!estacao.empty() && estacao.top() == aux){
+                        estacao.pop();
+                    }else{
+                        pass = false;
+                        break;
+                    }
                 }
-
-                if(!esta.empty() && esta.top() == aux){
-                    esta.pop();
-                } else {
-                    pass = false;
-                    break;
-                }
-
-
             }
-
             if(pass) cout << "Yes" << endl;
             else cout << "No" << endl;
 
-            
-            
-
-
         }
         cout << endl;
-
-        
     }
 }
