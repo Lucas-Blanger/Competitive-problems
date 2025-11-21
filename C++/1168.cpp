@@ -1,24 +1,35 @@
-#include <iostream>
-#include <string>
+#include <bits/stdc++.h>
 using namespace std;
 
 int main() {
-    int casos;
-    cin >> casos;
-    string valor;
+    map<int, int> leds;
+    leds[0] = 6;
+    leds[1] = 2;
+    leds[2] = 5;
+    leds[3] = 5;
+    leds[4] = 4;
+    leds[5] = 5;
+    leds[6] = 6;
+    leds[7] = 3;
+    leds[8] = 7;
+    leds[9] = 6;
 
-    int ledsPorNumero[10] = {6,2,5,5,4,5,6,3,7,6};
+    int n;
+    cin >> n;
 
-    while (casos--) {
-        cin >> valor;
-        int totalLeds = 0;
 
-        for (char c : valor) {
-            totalLeds += ledsPorNumero[c - '0'];
+    for(int i = 0; i < n; i++){
+        string num;
+        cin >> num;
+        int r = 0;
+        for(int j = 0; j < num.size(); j++){
+            r += leds[num[j] -'0'];
+
         }
-
-        cout << totalLeds << " leds" << endl;
+        cout << r << " leds" <<endl;
+        
     }
 
-    return 0;
+
+   
 }
