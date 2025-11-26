@@ -7,36 +7,40 @@ int main(){
     int n;
 
     while(cin >> n){
-        vector<int> lar(n);
-        vector<int> cheg(n);
-        vector<int> novo(n);
-        // unordered_map<int, int> lar;
-        // unordered_map<int, int> cheg;
+        // largada e chegada
+       unordered_map<int, int> grid;
+       vector<int> largada;
+       vector<int> chegada;
+
+
+       for(int i = 0; i < n; i++){
+        int x;
+        cin >> x;
+        largada.push_back(x);
+       
+       }
+       for(int i = 0; i < n; i++){
+        int x;
+        cin >> x;
+        chegada.push_back(x);
+       }
+
         for(int i = 0; i < n; i++){
-            cin >> lar[i];
-            novo[i] = lar[i];
+            grid[largada[i]] = i;
         }
+        
+        int r = 0;
         for(int i = 0; i < n; i++){
-            cin >> cheg[i];
-        }
-
-        int ultra = 0;
-
-        unordered_map<int, int> posFinal;
-        for (int i = 0; i < n; i++) posFinal[cheg[i]] = i;
-
-        vector<int> v(n);
-        for (int i = 0; i < n; i++) v[i] = posFinal[lar[i]];
-
-  
-        for (int i = 0; i < n; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (v[i] > v[j]) ultra++;
+            for(int j = i + 1; j < n; j++){
+                if(grid[chegada[i]] > grid[chegada[j]]){
+                    r++;
+                }
             }
         }
-                   
-        cout << ultra << endl;
-    
+        
+        cout << r << endl;
+       
+      
             
     }
 

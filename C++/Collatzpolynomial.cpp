@@ -7,44 +7,46 @@ int main() {
     
     vector<int> pol(n+1,0);
 
-    for(int i = n; i >= 0; i--){
+    for (int i = n; i >= 0; i--) {
         cin >> pol[i];
     }
 
-
-    int p = 0;
-    while(pol.size() > 1 || pol[0] != 1){
-        p++;
-
+    int r = 0;
+    while(pol.size() != 1 || pol[0] != 1){
+        r++;
+        int t = pol.size();
+        
         while (pol.size() > 1 && pol.back() == 0) {
             pol.pop_back();
         }
 
-        
-        if(pol[0] == 1){
-            vector<int> aux(pol.size()+1,0);
+        if(pol[0]){
+            // Multiplica por (x+1) e soma 1
+            vector<int> aux(pol.size() + 1, 0);
 
             for (int i = 0; i < pol.size(); i++) {
-                aux[i] += pol[i];      
-                aux[i + 1] += pol[i]; 
+                aux[i + 1] += pol[i];
             }
-
+             for (int i = 0; i < pol.size(); i++) {
+                aux[i] += pol[i];
+            }
+            
             aux[0] += 1;
-
+            
             for (int i = 0; i < aux.size(); i++) {
-                if (aux[i] == 2) {
-                    aux[i] = 0;
-                }
+                aux[i] %= 2;
             }
-https://codeforces.com/gym/106073/problem/J
+            
             pol = aux;
+            
+        
         }else{
-            for (int i = 1; i < pol.size(); i++) {
-                pol[i-1] = pol[i];
-            }
-            pol.pop_back();
+            pol.erase(pol.begin());
         }
-    }
 
-    cout << p << endl;
+
+    }
+    cout << r << endl;
+   
+    
 }
