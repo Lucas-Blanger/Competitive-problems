@@ -1,25 +1,27 @@
-#include <iostream>
+#include <bits/stdc++.h>
+
+
 using namespace std;
 
-int calcularMDC(int a, int b) {
+int mdc(int a, int b) {
     while (b != 0) {
-        int resto = a % b;
-        a = b;
-        b = resto;
+        int temp = b;
+        b = a % b;
+        a = temp;
     }
     return a;
 }
 
-int main() {
-    int N;
-    cin >> N;
 
-    while (N--) {
-        int F1, F2; 
-        cin >> F1 >> F2;
-        
-        cout << calcularMDC(F1, F2) << endl;
+
+int main(){
+    int n;
+    cin >> n;
+
+
+    for(int i = 0; i < n; i++){
+        int a, b;
+        cin >> a >> b;
+        cout << mdc(a,b) << endl;
     }
-
-    return 0;
 }
