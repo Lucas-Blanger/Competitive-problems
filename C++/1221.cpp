@@ -1,4 +1,4 @@
-#include <iostream>
+#include <bits/stdc++.h>
 
 using namespace std;
 
@@ -14,14 +14,14 @@ bool ehPrimo(int n) {
 }
 
 
-int main() {
-    int n, num;
-    cin >> n;
-    for (int i = 0; i < n; i++) {
-        cin >> num;
-        if(ehPrimo(num)) cout << num << " eh primo" << endl;
-        else cout << num << " nao eh primo" << endl;
+int main(){
 
-       
+    int n;
+    cin >> n;
+    int num;
+    for(int i = 0; i < n; i++){
+        cin >> num;
+        if(ehPrimo(num)) cout << "Prime" << endl;
+        else cout << "Not Prime" << endl;
     }
 }
