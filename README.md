@@ -377,3 +377,14 @@ The repository is organized as follows:
 |                      [1221](https://www.beecrowd.com.br/repository/UOJ_1221.html)                      |     Beecrowd      |    C++     |
 |                      [2674](https://www.beecrowd.com.br/repository/UOJ_2674.html)                      |     Beecrowd      |    C++     |
 |                      [1805](https://www.beecrowd.com.br/repository/1805.html)                      |     Beecrowd      |    C++     |
+|                      [1022](https://www.beecrowd.com.br/repository/UOJ_1022.html)                      |     Beecrowd      |    C++     |
+|                      [1125](https://www.beecrowd.com.br/repository/UOJ_1125.html)                      |     Beecrowd      |    C++     |
+|                      [1083](https://www.beecrowd.com.br/repository/UOJ_1083.html)                      |     Beecrowd      |    C++     |
+|                      [1159](https://www.beecrowd.com.br/repository/UOJ_1159.html)                      |     Beecrowd      |    C++     |
+|                      [1169](https://www.beecrowd.com.br/repository/UOJ_1169.html)                      |     Beecrowd      |    C++     |
+|                      [1323](https://www.beecrowd.com.br/repository/UOJ_1323.html)                      |     Beecrowd      |    C++     |
+|                      [1429](https://www.beecrowd.com.br/repository/UOJ_1429.html)                      |     Beecrowd      |    C++     |
+|                      [1512](https://www.beecrowd.com.br/repository/UOJ_1512.html)                      |     Beecrowd      |    C++     |
+|                      [1582](https://www.beecrowd.com.br/repository/UOJ_1582.html)                      |     Beecrowd      |    C++     |
+|                      [2006](https://www.beecrowd.com.br/repository/UOJ_2006.html)                      |     Beecrowd      |    C++     |
+|                      [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html)                      |     Beecrowd      |    C++     |
