@@ -389,3 +389,5 @@ The repository is organized as follows:
 |                      [2006](https://www.beecrowd.com.br/repository/UOJ_2006.html)                      |     Beecrowd      |    C++     |
 |                      [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html)                      |     Beecrowd      |    C++     |
 |                      [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html)                      |     Beecrowd      |    C++     |
+|                      [Pangram](https://codeforces.com/contest/520/problem/A)                      |     Codeforces      |    C++     |
+
