@@ -391,5 +391,6 @@ The repository is organized as follows:
 |                      [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html)                      |     Beecrowd      |    C++     |
 |                      [Pangram](https://codeforces.com/contest/520/problem/A)                      |     Codeforces      |    C++     |
 |                      [WeirdAlgorithm](https://cses.fi/problemset/task/1068/)                      |     CSES      |    C++     |
+|                      [Exponentiation](https://cses.fi/problemset/task/1095/)                      |     CSES      |    C++     |
 
 
