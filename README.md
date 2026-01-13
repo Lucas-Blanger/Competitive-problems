@@ -392,5 +392,9 @@ The repository is organized as follows:
 |                      [Pangram](https://codeforces.com/contest/520/problem/A)                      |     Codeforces      |    C++     |
 |                      [WeirdAlgorithm](https://cses.fi/problemset/task/1068/)                      |     CSES      |    C++     |
 |                      [Exponentiation](https://cses.fi/problemset/task/1095/)                      |     CSES      |    C++     |
+|                      [StringMatching](https://cses.fi/problemset/task/1753/)                      |     CSES      |    C++     |
+|                      [FindingBorders](https://cses.fi/problemset/task/1732/)                      |     CSES      |    C++     |
+|                      [WaroftheCorporations](https://codeforces.com/problemset/problem/625/B)                      |     Codeforces      |    C++     |
+|                      [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html)                      |     Beecrowd      |    C++     |
 
 
