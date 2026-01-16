@@ -396,5 +396,6 @@ The repository is organized as follows:
 |                      [FindingBorders](https://cses.fi/problemset/task/1732/)                      |     CSES      |    C++     |
 |                      [WaroftheCorporations](https://codeforces.com/problemset/problem/625/B)                      |     Codeforces      |    C++     |
 |                      [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html)                      |     Beecrowd      |    C++     |
+|                      [Password](https://codeforces.com/contest/126/problem/B)                      |     Codeforces      |    C++     |
 
 
