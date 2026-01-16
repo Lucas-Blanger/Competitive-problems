@@ -1,14 +1,15 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-vector<int> computeLPS(string s) {
-    int n = s.size();
-    vector<int> lps(n);
+
+vector<int> computeLPS(string pat) {
+    int m = pat.size();
+    vector<int> lps(m);
     int len = 0;
     lps[0] = 0;
     
-    for (int i = 1; i < n; ) {
-        if (s[i] == s[len]) {
+    for (int i = 1; i < m; ) {
+        if (pat[i] == pat[len]) {
             lps[i++] = ++len;
         } else {
             if (len != 0) len = lps[len - 1];
@@ -21,24 +22,24 @@ vector<int> computeLPS(string s) {
 int main() {
     string s;
     cin >> s;
-    
-    vector<int> lps = computeLPS(s);
-    vector<int> borders;
-    
-    int idx = lps[s.size() - 1];
-    
-    while (idx > 0) {
-        borders.push_back(idx);
-        idx = lps[idx - 1];
-    }
-    
+
+    vector<int> borders = computeLPS(s);
+
+    int t = s.size();
+    int k = borders[t - 1];
    
-    reverse(borders.begin(), borders.end());
-    
-    for (int b : borders) {
-        cout << b << " ";
+    vector<int> aux;
+    while (k > 0) {
+        aux.push_back(k);
+        k = borders[k-1]; // vai para a próxima borda
     }
-    if (!borders.empty()) cout << "\n";
+
+    sort(aux.begin(), aux.end());
+
+    for(int x: aux){
+        cout << x << " ";
+    }
+    
     
 
 }
