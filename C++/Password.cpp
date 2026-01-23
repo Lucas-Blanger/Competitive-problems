@@ -25,13 +25,14 @@ int main() {
 
     vector<int> borders = computeLPS(s);
 
-
-    int t = borders.size();
+    int t = borders.size(); 
     int p = borders[t-1]; 
 
-    set<int> aux;
+    set<int> aux; 
     for(int i = 0; i < t-1; i++) {
-        if(borders[i] > 0) aux.insert(borders[i]);
+        if(borders[i] > 0){
+            aux.insert(borders[i]);
+        } 
     }
 
     while(p > 0) {

@@ -27,7 +27,7 @@ int main() {
 
     int t = s.size();
     int k = borders[t - 1];
-   
+
     vector<int> aux;
     while (k > 0) {
         aux.push_back(k);
