@@ -400,3 +400,4 @@ The repository is organized as follows:
 |                        [FindingPeriods](https://cses.fi/problemset/task/1733/)                         |       CSES        |    C++     |
 |                      [2252](https://www.beecrowd.com.br/repository/UOJ_2252.html)                      |     Beecrowd      |    C++     |
 |                      [1239](https://www.beecrowd.com.br/repository/UOJ_1239.html)                      |     Beecrowd      |    C++     |
+|                      [1367](https://www.beecrowd.com.br/repository/UOJ_1367.html)                      |     Beecrowd      |    C++     |
