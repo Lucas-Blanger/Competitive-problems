@@ -398,3 +398,4 @@ The repository is organized as follows:
 |                      [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html)                      |     Beecrowd      |    C++     |
 |                        [Password](https://codeforces.com/contest/126/problem/B)                        |    Codeforces     |    C++     |
 |                        [FindingPeriods](https://cses.fi/problemset/task/1733/)                         |       CSES        |    C++     |
+|                      [2252](https://www.beecrowd.com.br/repository/UOJ_2252.html)                      |     Beecrowd      |    C++     |
