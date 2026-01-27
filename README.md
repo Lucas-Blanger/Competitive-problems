@@ -376,7 +376,7 @@ The repository is organized as follows:
 |                      [1170](https://www.beecrowd.com.br/repository/UOJ_1170.html)                      |     Beecrowd      |    C++     |
 |                      [1221](https://www.beecrowd.com.br/repository/UOJ_1221.html)                      |     Beecrowd      |    C++     |
 |                      [2674](https://www.beecrowd.com.br/repository/UOJ_2674.html)                      |     Beecrowd      |    C++     |
-|                      [1805](https://www.beecrowd.com.br/repository/1805.html)                      |     Beecrowd      |    C++     |
+|                        [1805](https://www.beecrowd.com.br/repository/1805.html)                        |     Beecrowd      |    C++     |
 |                      [1022](https://www.beecrowd.com.br/repository/UOJ_1022.html)                      |     Beecrowd      |    C++     |
 |                      [1125](https://www.beecrowd.com.br/repository/UOJ_1125.html)                      |     Beecrowd      |    C++     |
 |                      [1083](https://www.beecrowd.com.br/repository/UOJ_1083.html)                      |     Beecrowd      |    C++     |
@@ -389,13 +389,12 @@ The repository is organized as follows:
 |                      [2006](https://www.beecrowd.com.br/repository/UOJ_2006.html)                      |     Beecrowd      |    C++     |
 |                      [2157](https://www.beecrowd.com.br/repository/UOJ_2157.html)                      |     Beecrowd      |    C++     |
 |                      [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html)                      |     Beecrowd      |    C++     |
-|                      [Pangram](https://codeforces.com/contest/520/problem/A)                      |     Codeforces      |    C++     |
-|                      [WeirdAlgorithm](https://cses.fi/problemset/task/1068/)                      |     CSES      |    C++     |
-|                      [Exponentiation](https://cses.fi/problemset/task/1095/)                      |     CSES      |    C++     |
-|                      [StringMatching](https://cses.fi/problemset/task/1753/)                      |     CSES      |    C++     |
-|                      [FindingBorders](https://cses.fi/problemset/task/1732/)                      |     CSES      |    C++     |
-|                      [WaroftheCorporations](https://codeforces.com/problemset/problem/625/B)                      |     Codeforces      |    C++     |
+|                        [Pangram](https://codeforces.com/contest/520/problem/A)                         |    Codeforces     |    C++     |
+|                        [WeirdAlgorithm](https://cses.fi/problemset/task/1068/)                         |       CSES        |    C++     |
+|                        [Exponentiation](https://cses.fi/problemset/task/1095/)                         |       CSES        |    C++     |
+|                        [StringMatching](https://cses.fi/problemset/task/1753/)                         |       CSES        |    C++     |
+|                        [FindingBorders](https://cses.fi/problemset/task/1732/)                         |       CSES        |    C++     |
+|                [WaroftheCorporations](https://codeforces.com/problemset/problem/625/B)                 |    Codeforces     |    C++     |
 |                      [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html)                      |     Beecrowd      |    C++     |
-|                      [Password](https://codeforces.com/contest/126/problem/B)                      |     Codeforces      |    C++     |
-
-
+|                        [Password](https://codeforces.com/contest/126/problem/B)                        |    Codeforces     |    C++     |
+|                        [FindingPeriods](https://cses.fi/problemset/task/1733/)                         |       CSES        |    C++     |
