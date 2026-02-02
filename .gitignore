@@ -11,7 +11,7 @@ C++/*.out
 C/**/*.exe
 C++/**/*.exe
 
-
+output/
 *.log
 *.tmp
 *.swp
