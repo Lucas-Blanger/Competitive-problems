@@ -3,9 +3,6 @@
 using namespace std;
 
 
-
-
-
 int main(){
     vector<int> luck;
     for(int i = 0; i <= 1000;i++){
@@ -15,7 +12,7 @@ int main(){
         for(int j = 0; j < s.size(); j++){
             if(s[j] != '4' && s[j] != '7') pass = false;
         }
-        if(pass){
+        if(pass == true){
             luck.push_back(stoi(s));  
         } 
     }
