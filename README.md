@@ -406,4 +406,4 @@ The repository is organized as follows:
 |                      [1858](https://www.beecrowd.com.br/repository/UOJ_1858.html)                      |     Beecrowd      |    C++     |
 |                         [122](https://codeforces.com/problemset/problem/122/A)                         |    Codeforces     |    C++     |
 |                      [1167](https://www.beecrowd.com.br/repository/UOJ_1167.html)                      |     Beecrowd      |    C++     |
-| [720](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) |        UVa        |    C++     |
+| [750](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) |        UVa        |    C++     |
