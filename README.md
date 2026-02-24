@@ -409,3 +409,4 @@ The repository is organized as follows:
 | [750](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=691) |        UVa        |    C++     |
 |                      [1383](https://www.beecrowd.com.br/repository/UOJ_1383.html)                      |     Beecrowd      |    C++     |
 |                      [2446](https://www.beecrowd.com.br/repository/UOJ_2446.html)                      |     Beecrowd      |    C++     |
+|                      [1755](https://www.beecrowd.com.br/repository/UOJ_1755.html)                      |     Beecrowd      |    C++     |
