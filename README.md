@@ -412,3 +412,4 @@ The repository is organized as follows:
 |                      [1755](https://www.beecrowd.com.br/repository/UOJ_1755.html)                      |     Beecrowd      |    C++     |
 |                      [1912](https://www.beecrowd.com.br/repository/UOJ_1912.html)                      |     Beecrowd      |    C++     |
 |                      [2312](https://www.beecrowd.com.br/repository/UOJ_2312.html)                      |     Beecrowd      |    C++     |
+|                         [MovieFestival](https://cses.fi/problemset/task/1629)                          |       CSES        |    C++     |
