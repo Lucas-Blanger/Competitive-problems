@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#define tm 8
+#define tm 128
 char tabuleiro[tm][tm];
 int contador = 0;
 
@@ -62,12 +62,14 @@ void colocaRainha(int linha) {
             tabuleiro[linha][coluna] = 'R';
             colocaRainha(linha + 1);
             tabuleiro[linha][coluna] = '.';
+            
         }
     }
 }
 
 int main() {
     inicializaTabuleiro();
+    
     colocaRainha(0);
     cout << "Numero total de solucoes: " << contador << endl;
 }
