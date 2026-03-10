@@ -421,3 +421,4 @@ The repository is organized as follows:
 |                      [1034](https://www.beecrowd.com.br/repository/UOJ_1034.html)                      |     Beecrowd      |    C++     |
 |                      [1633](https://www.beecrowd.com.br/repository/UOJ_1633.html)                      |     Beecrowd      |    C++     |
 |                       [CoinCombinationsI](https://cses.fi/problemset/task/1636)                        |       CSES        |    C++     |
+|                     [IncreasingSubsequence](https://cses.fi/problemset/task/1145)                      |       CSES        |    C++     |
