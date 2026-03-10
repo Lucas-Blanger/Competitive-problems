@@ -423,3 +423,4 @@ The repository is organized as follows:
 |                       [CoinCombinationsI](https://cses.fi/problemset/task/1636)                        |       CSES        |    C++     |
 |                     [IncreasingSubsequence](https://cses.fi/problemset/task/1145)                      |       CSES        |    C++     |
 |                           [481](https://onlinejudge.org/external/4/481.pdf)                            |        UVa        |    C++     |
+|                        [10405](https://onlinejudge.org/external/104/10405.pdf)                         |        UVa        |    C++     |
