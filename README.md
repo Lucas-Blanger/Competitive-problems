@@ -425,3 +425,4 @@ The repository is organized as follows:
 |                           [481](https://onlinejudge.org/external/4/481.pdf)                            |        UVa        |    C++     |
 |                        [10405](https://onlinejudge.org/external/104/10405.pdf)                         |        UVa        |    C++     |
 |                   [LongestCommonSubsequence](https://cses.fi/problemset/task/3403/)                    |       CSES        |    C++     |
+|                      [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html)                      |     Beecrowd      |    C++     |
