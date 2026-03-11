@@ -4,49 +4,46 @@ using namespace std;
 int main() {
     int n;
     cin >> n;
-    
+
     vector<int> pol(n+1,0);
 
-    for (int i = n; i >= 0; i--) {
+    for(int i = n; i >= 0; i--){
         cin >> pol[i];
     }
 
-    int r = 0;
-    while(pol.size() != 1 || pol[0] != 1){
-        r++;
-        int t = pol.size();
-        
-        while (pol.size() > 1 && pol.back() == 0) {
-            pol.pop_back();
-        }
 
-        if(pol[0]){
-            // Multiplica por (x+1) e soma 1
-            vector<int> aux(pol.size() + 1, 0);
-
-            for (int i = 0; i < pol.size(); i++) {
-                aux[i + 1] += pol[i];
-            }
-             for (int i = 0; i < pol.size(); i++) {
-                aux[i] += pol[i];
-            }
+    int cont = 0;
+    while(pol.size() != 1){
+        cont++;
+        if(pol[0] == 1){
+            pol.push_back(1);
+           for(int i = pol.size()-2; i > 0; i--){
+            pol[i] = pol[i] + pol[i-1];
+            if(pol[i] == 2) pol[i] = 0;
             
-            aux[0] += 1;
-            
-            for (int i = 0; i < aux.size(); i++) {
-                aux[i] %= 2;
-            }
-            
-            pol = aux;
-            
-        
+           }
+           pol[0] = 0;
         }else{
-            pol.erase(pol.begin());
+            for(int i = 0; i <  pol.size(); i++){
+                if(i == pol.size()-1){
+                    break;
+
+                }else if(pol[i+1] == 1){
+                    pol[i] = 1;
+                    pol[i+1] = 0;
+                }
+            }
+            pol.pop_back();
+         
         }
+       
+
+
+        
 
 
     }
-    cout << r << endl;
+    cout << cont << endl;
    
     
 }
