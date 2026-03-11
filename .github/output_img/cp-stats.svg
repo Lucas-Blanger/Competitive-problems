@@ -1,0 +1,481 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="440" viewBox="0 0 820 440">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%"   stop-color="#161b22"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%"   stop-color="#00ff9f"/>
+    <stop offset="100%" stop-color="#38bdf8"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="2.5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="820" height="440" rx="14" fill="url(#bg)"/>
+<rect width="820" height="440" rx="14" fill="none" stroke="#21262d" stroke-width="1.5"/>
+<circle cx="20" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="20" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="50" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="80" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="110" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="140" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="170" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="200" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="230" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="260" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="290" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="320" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="350" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="380" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="410" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="440" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="470" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="500" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="530" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="560" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="590" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="620" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="650" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="680" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="710" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="740" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="770" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="20" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="50" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="80" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="110" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="140" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="170" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="200" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="230" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="260" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="290" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="320" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="350" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="380" r="0.7" fill="#21262d"/>
+<circle cx="800" cy="410" r="0.7" fill="#21262d"/>
+<circle cx="0"   cy="0"   r="200" fill="#00ff9f" opacity="0.025"/>
+<circle cx="820" cy="440" r="160" fill="#38bdf8" opacity="0.03"/>
+<text x="28" y="38" fill="#8b949e" font-size="11" font-family="monospace">lucas-blanger / competitive-programming</text>
+<text x="28" y="68" fill="url(#titleGrad)" font-size="22" font-weight="bold" font-family="monospace" filter="url(#glow)">⬡  Competitive Programming Stats</text>
+<line x1="28" y1="80" x2="792" y2="80" stroke="#21262d" stroke-width="1"/>
+<rect x="28" y="92" width="170" height="64" rx="8" fill="#0d1117" stroke="#00ff9f33" stroke-width="1"/>
+<rect x="28" y="92" width="170" height="3" rx="2" fill="#00ff9f" opacity="0.8"/>
+<text x="42" y="130" fill="#00ff9f" font-size="26" font-weight="bold" font-family="monospace" filter="url(#glow)">400</text>
+<text x="42" y="148" fill="#6e7681" font-size="10" font-family="monospace" letter-spacing="1">PROBLEMAS</text>
+<rect x="210" y="92" width="170" height="64" rx="8" fill="#0d1117" stroke="#7c6af733" stroke-width="1"/>
+<rect x="210" y="92" width="170" height="3" rx="2" fill="#7c6af7" opacity="0.8"/>
+<text x="224" y="130" fill="#7c6af7" font-size="26" font-weight="bold" font-family="monospace" filter="url(#glow)">6</text>
+<text x="224" y="148" fill="#6e7681" font-size="10" font-family="monospace" letter-spacing="1">PLATAFORMAS</text>
+<rect x="392" y="92" width="170" height="64" rx="8" fill="#0d1117" stroke="#38bdf833" stroke-width="1"/>
+<rect x="392" y="92" width="170" height="3" rx="2" fill="#38bdf8" opacity="0.8"/>
+<text x="406" y="130" fill="#38bdf8" font-size="26" font-weight="bold" font-family="monospace" filter="url(#glow)">5</text>
+<text x="406" y="148" fill="#6e7681" font-size="10" font-family="monospace" letter-spacing="1">LINGUAGENS</text>
+<rect x="574" y="92" width="170" height="64" rx="8" fill="#0d1117" stroke="#f472b633" stroke-width="1"/>
+<rect x="574" y="92" width="170" height="3" rx="2" fill="#f472b6" opacity="0.8"/>
+<text x="588" y="130" fill="#f472b6" font-size="26" font-weight="bold" font-family="monospace" filter="url(#glow)">207</text>
+<text x="588" y="148" fill="#6e7681" font-size="10" font-family="monospace" letter-spacing="1">COMMITS</text>
+<line x1="28" y1="172" x2="792" y2="172" stroke="#21262d" stroke-width="1"/>
+<text x="28" y="192" fill="#8b949e" font-size="10" font-family="monospace" letter-spacing="2">// PLATAFORMAS</text>
+<path d="M 118.00 225.00 A 70 70 0 1 1 62.91 251.81 L 86.52 270.32 A 40 40 0 1 0 118.00 255.00 Z" fill="#00ff9f" opacity="0.92"/>
+<path d="M 64.06 250.38 A 70 70 0 0 1 87.53 231.98 L 100.59 258.99 A 40 40 0 0 0 87.18 269.50 Z" fill="#ff6b35" opacity="0.92"/>
+<path d="M 89.19 231.20 A 70 70 0 0 1 96.72 228.31 L 105.84 256.89 A 40 40 0 0 0 101.54 258.54 Z" fill="#7c6af7" opacity="0.92"/>
+<path d="M 98.47 227.78 A 70 70 0 0 1 106.33 225.98 L 111.33 255.56 A 40 40 0 0 0 106.84 256.59 Z" fill="#38bdf8" opacity="0.92"/>
+<path d="M 108.14 225.70 A 70 70 0 0 1 113.97 225.12 L 115.70 255.07 A 40 40 0 0 0 112.36 255.40 Z" fill="#f472b6" opacity="0.92"/>
+<path d="M 115.80 225.03 A 70 70 0 0 1 116.17 225.02 L 116.95 255.01 A 40 40 0 0 0 116.74 255.02 Z" fill="#7c6af7" opacity="0.92"/>
+<text x="118" y="287" fill="#e6edf3" font-size="22" font-weight="bold" font-family="monospace" text-anchor="middle" filter="url(#glow)">400</text>
+<text x="118" y="307" fill="#8b949e" font-size="9" font-family="monospace" text-anchor="middle" letter-spacing="1">TOTAL</text>
+<rect x="210" y="198" width="10" height="10" rx="2" fill="#00ff9f"/>
+<text x="226" y="208" fill="#c9d1d9" font-size="11" font-family="monospace">Beecrowd</text>
+<text x="390" y="208" fill="#00ff9f" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">344</text>
+<rect x="210" y="222" width="10" height="10" rx="2" fill="#ff6b35"/>
+<text x="226" y="232" fill="#c9d1d9" font-size="11" font-family="monospace">Codeforces</text>
+<text x="390" y="232" fill="#ff6b35" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">29</text>
+<rect x="210" y="246" width="10" height="10" rx="2" fill="#7c6af7"/>
+<text x="226" y="256" fill="#c9d1d9" font-size="11" font-family="monospace">UVa</text>
+<text x="390" y="256" fill="#7c6af7" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">9</text>
+<rect x="210" y="270" width="10" height="10" rx="2" fill="#38bdf8"/>
+<text x="226" y="280" fill="#c9d1d9" font-size="11" font-family="monospace">CSES</text>
+<text x="390" y="280" fill="#38bdf8" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">9</text>
+<rect x="210" y="294" width="10" height="10" rx="2" fill="#f472b6"/>
+<text x="226" y="304" fill="#c9d1d9" font-size="11" font-family="monospace">Prog. Fight</text>
+<text x="390" y="304" fill="#f472b6" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">7</text>
+<rect x="210" y="318" width="10" height="10" rx="2" fill="#7c6af7"/>
+<text x="226" y="328" fill="#c9d1d9" font-size="11" font-family="monospace">UVa Online</text>
+<text x="390" y="328" fill="#7c6af7" font-size="11" font-family="monospace" font-weight="bold" text-anchor="end">2</text>
+<line x1="410" y1="177" x2="410" y2="415" stroke="#21262d" stroke-width="1"/>
+<text x="430" y="192" fill="#8b949e" font-size="10" font-family="monospace" letter-spacing="2">// LINGUAGENS</text>
+<text x="430" y="213" fill="#8b949e" font-size="11" font-family="monospace">C++</text>
+<rect x="520" y="202" width="237" height="12" rx="3" fill="#21262d"/>
+<rect x="520" y="202" width="237" height="12" rx="3" fill="#00ff9f"/>
+<text x="795" y="213" fill="#00ff9f" font-size="11" font-family="monospace" text-anchor="end" font-weight="bold">338</text>
+<text x="430" y="241" fill="#8b949e" font-size="11" font-family="monospace">Python</text>
+<rect x="520" y="230" width="237" height="12" rx="3" fill="#21262d"/>
+<rect x="520" y="230" width="37" height="12" rx="3" fill="#f472b6"/>
+<text x="795" y="241" fill="#f472b6" font-size="11" font-family="monospace" text-anchor="end" font-weight="bold">53</text>
+<text x="430" y="269" fill="#8b949e" font-size="11" font-family="monospace">C</text>
+<rect x="520" y="258" width="237" height="12" rx="3" fill="#21262d"/>
+<rect x="520" y="258" width="4" height="12" rx="3" fill="#38bdf8"/>
+<text x="795" y="269" fill="#38bdf8" font-size="11" font-family="monospace" text-anchor="end" font-weight="bold">6</text>
+<text x="430" y="297" fill="#8b949e" font-size="11" font-family="monospace">JavaScript</text>
+<rect x="520" y="286" width="237" height="12" rx="3" fill="#21262d"/>
+<rect x="520" y="286" width="4" height="12" rx="3" fill="#fbbf24"/>
+<text x="795" y="297" fill="#fbbf24" font-size="11" font-family="monospace" text-anchor="end" font-weight="bold">2</text>
+<text x="430" y="325" fill="#8b949e" font-size="11" font-family="monospace">Python/C++</text>
+<rect x="520" y="314" width="237" height="12" rx="3" fill="#21262d"/>
+<rect x="520" y="314" width="4" height="12" rx="3" fill="#888888"/>
+<text x="795" y="325" fill="#888888" font-size="11" font-family="monospace" text-anchor="end" font-weight="bold">1</text>
+<line x1="430" y1="348" x2="792" y2="348" stroke="#21262d" stroke-width="0.5" stroke-dasharray="4,3"/>
+<text x="430" y="365" fill="#8b949e" font-size="10" font-family="monospace" letter-spacing="2">// DISTRIBUIÇÃO</text>
+<rect x="430" y="375" width="362" height="16" rx="4" fill="#21262d"/>
+<rect x="430" y="375" width="311" height="16" rx="3" fill="#00ff9f" opacity="0.85"/>
+<text x="585" y="386" fill="#0d1117" font-size="9" font-family="monospace" font-weight="bold" text-anchor="middle">344</text>
+<rect x="741" y="375" width="26" height="16" rx="3" fill="#ff6b35" opacity="0.85"/>
+<rect x="767" y="375" width="8" height="16" rx="3" fill="#7c6af7" opacity="0.85"/>
+<rect x="775" y="375" width="8" height="16" rx="3" fill="#38bdf8" opacity="0.85"/>
+<rect x="783" y="375" width="6" height="16" rx="3" fill="#f472b6" opacity="0.85"/>
+<rect x="789" y="375" width="2" height="16" rx="3" fill="#7c6af7" opacity="0.85"/>
+<text x="585" y="407" fill="#00ff9f" font-size="8.5" font-family="monospace" text-anchor="middle" opacity="0.8">Beecrowd</text>
+<line x1="28" y1="415" x2="792" y2="415" stroke="#21262d" stroke-width="0.8"/>
+<text x="28"  y="432" fill="#3d444d" font-size="9" font-family="monospace">competitive-programming · lucas-blanger</text>
+<text x="792" y="432" fill="#3d444d" font-size="9" font-family="monospace" text-anchor="end">atualizado 2026-03-11</text>
+</svg>

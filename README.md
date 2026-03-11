@@ -2,6 +2,8 @@
 
 Welcome to the repository of competitive programming problems I have solved! This repository contains solutions to various competitive programming problems, organized by category.
 
+![Stats](./.github/output_img/cp-stats.svg)
+
 ## Table of Contents
 
 - Introduction
