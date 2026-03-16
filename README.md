@@ -429,3 +429,4 @@ The repository is organized as follows:
 |                   [LongestCommonSubsequence](https://cses.fi/problemset/task/3403/)                    |       CSES        |    C++     |
 |                      [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html)                      |     Beecrowd      |    C++     |
 |                      [1487](https://www.beecrowd.com.br/repository/UOJ_1487.html)                      |     Beecrowd      |    C++     |
+|                      [1286](https://www.beecrowd.com.br/repository/UOJ_1286.html)                      |     Beecrowd      |    C++     |
