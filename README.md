@@ -430,3 +430,4 @@ The repository is organized as follows:
 |                      [1307](https://www.beecrowd.com.br/repository/UOJ_1307.html)                      |     Beecrowd      |    C++     |
 |                      [1487](https://www.beecrowd.com.br/repository/UOJ_1487.html)                      |     Beecrowd      |    C++     |
 |                      [1286](https://www.beecrowd.com.br/repository/UOJ_1286.html)                      |     Beecrowd      |    C++     |
+|                         [EditDistance](https://cses.fi/problemset/task/1639/)                          |       CSES        |    C++     |
