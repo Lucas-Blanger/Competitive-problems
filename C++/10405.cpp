@@ -3,7 +3,6 @@
 using namespace std;
 
 int LCS_length(string a, string b) {
-
     int n = a.size();
     int m = b.size();
 
@@ -22,13 +21,13 @@ int LCS_length(string a, string b) {
     return dp[n][m];
 }
 
+
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
+    ios_base::sync_with_stdio(0);
+    cin.tie(0);
 
-    string a,b;
-
+    string a, b;
     while(getline(cin, a) && getline(cin, b)){
-        cout << LCS_length(a,b) << "\n";
+        cout << LCS_length(a,b) << endl;
     }
 }
