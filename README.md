@@ -433,4 +433,5 @@ The repository is organized as follows:
 |                         [EditDistance](https://cses.fi/problemset/task/1639/)                          |       CSES        |    C++     |
 |                        [530G](https://codeforces.com/problemset/problem/530/G)                         |    Codeforces     |    C++     |
 |                             [EDIST](https://www.spoj.com/problems/EDIST/)                              |       spoj        |    C++     |
-|                           [MoneySums](https://cses.fi/problemset/task/1639/)                           |       CSES        |    C++     |
+|                           [MoneySums](https://cses.fi/problemset/task/1745/)                           |       CSES        |    C++     |
+|                          [GridPathsI](https://cses.fi/problemset/task/1638/)                           |       CSES        |    C++     |
