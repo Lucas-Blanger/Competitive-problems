@@ -438,3 +438,5 @@ The repository is organized as follows:
 |                              [Grid](https://www.spoj.com/problems/Grid/)                               |       spoj        |    C++     |
 |                      [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html)                      |     Beecrowd      |    C++     |
 |                      [1482](https://www.beecrowd.com.br/repository/UOJ_1482.html)                      |     Beecrowd      |    C++     |
+|                        [10496](https://onlinejudge.org/external/104/10496.pdf)                         |        UVa        |    C++     |
+|                             [salman](https://www.spoj.com/problems/STSP/)                              |       spoj        |    C++     |
