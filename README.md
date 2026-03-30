@@ -437,3 +437,4 @@ The repository is organized as follows:
 |                          [GridPathsI](https://cses.fi/problemset/task/1638/)                           |       CSES        |    C++     |
 |                              [Grid](https://www.spoj.com/problems/Grid/)                               |       spoj        |    C++     |
 |                      [1084](https://www.beecrowd.com.br/repository/UOJ_1084.html)                      |     Beecrowd      |    C++     |
+|                      [1482](https://www.beecrowd.com.br/repository/UOJ_1482.html)                      |     Beecrowd      |    C++     |
