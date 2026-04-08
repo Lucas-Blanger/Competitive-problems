@@ -441,3 +441,4 @@ The repository is organized as follows:
 |                        [10496](https://onlinejudge.org/external/104/10496.pdf)                         |        UVa        |    C++     |
 |                             [salman](https://www.spoj.com/problems/STSP/)                              |       spoj        |    C++     |
 |                      [1082](https://www.beecrowd.com.br/repository/UOJ_1082.html)                      |     Beecrowd      |    C++     |
+|                      [2435](https://www.beecrowd.com.br/repository/UOJ_2435.html)                      |     Beecrowd      |    C++     |
