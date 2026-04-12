@@ -7,46 +7,45 @@ using namespace std;
 int main() {
     int n;
     while (cin >> n) {
+        bool ehPilha = true, ehFila = true, ehFilaP = true;
+
         stack<int> pilha;
         queue<int> fila;
-        priority_queue<int> fila_p;
+        priority_queue<int> pq;
 
-        bool is_stack = true, is_queue = true, is_pq = true;
-
-        for (int i = 0; i < n; ++i) {
-            int op, x;
+        for(int i = 0; i < n;i++){
+            int op,x;
             cin >> op >> x;
 
-            if (op == 1) {
-                if (is_stack) pilha.push(x);
-                if (is_queue) fila.push(x);
-                if (is_pq) fila_p.push(x);
-            } else {
-                if (is_stack) {
-                    if (pilha.empty() || pilha.top() != x) is_stack = false;
-                    else pilha.pop();
-                }
-                if (is_queue) {
-                    if (fila.empty() || fila.front() != x) is_queue = false;
-                    else fila.pop();
-                }
-                if (is_pq) {
-                    if (fila_p.empty() || fila_p.top() != x) is_pq = false;
-                    else fila_p.pop();
-                }
+            if(op == 1){
+                if(ehPilha) pilha.push(x);
+                if(ehFila) fila.push(x);
+                if(ehFilaP) pq.push(x);
+            }else{
+                if(ehPilha && !pilha.empty()){
+                    if(pilha.top() == x) pilha.pop();
+                    else ehPilha = false;
+                } else ehPilha = false;
+
+                if(ehFila && !fila.empty()){
+                    if(fila.front() == x) fila.pop();
+                    else ehFila = false;
+                } else ehFila = false;
+
+                if(ehFilaP && !pq.empty()){
+                    if(pq.top() == x) pq.pop();
+                    else ehFilaP = false;
+                } else ehFilaP = false;
+
             }
         }
 
-        if (is_stack + is_queue + is_pq == 0) {
-            cout << "impossible\n";
-        } else if (is_stack + is_queue + is_pq > 1) {
-            cout << "not sure\n";
-        } else if (is_stack) {
-            cout << "stack\n";
-        } else if (is_queue) {
-            cout << "queue\n";
-        } else if (is_pq) {
-            cout << "priority queue\n";
-        }
+        if(ehFila && ehPilha && ehFilaP) cout << "not sure" << endl;
+        else if(ehFila && ehPilha || ehPilha && ehFilaP || ehFila && ehFilaP) cout << "not sure" << endl;
+        else if(ehPilha) cout << "stack" << endl;
+        else if(ehFila) cout << "queue" << endl;
+        else if(ehFilaP) cout << "priority queue" << endl;
+        else cout << "impossible" << endl;
+    
     }
 }
