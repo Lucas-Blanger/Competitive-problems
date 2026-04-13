@@ -449,3 +449,4 @@ The repository is organized as follows:
 |                      [1419](https://www.beecrowd.com.br/repository/UOJ_1419.html)                      |     Beecrowd      |    C++     |
 |                      [2440](https://www.beecrowd.com.br/repository/UOJ_2440.html)                      |     Beecrowd      |    C++     |
 |                             [course](https://cses.fi/problemset/task/1679)                             |       CSES        |    C++     |
+|                          [toposort](https://www.spoj.com/problems/TOPOSORT/)                           |       spoj        |    C++     |
