@@ -452,3 +452,4 @@ The repository is organized as follows:
 |                          [toposort](https://www.spoj.com/problems/TOPOSORT/)                           |       spoj        |    C++     |
 |                      [1100](https://www.beecrowd.com.br/repository/UOJ_1100.html)                      |     Beecrowd      |    C++     |
 |                      [1905](https://www.beecrowd.com.br/repository/UOJ_1905.html)                      |     Beecrowd      |    C++     |
+|                      [1330](https://www.beecrowd.com.br/repository/UOJ_1330.html)                      |     Beecrowd      |    C++     |
