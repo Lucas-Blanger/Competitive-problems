@@ -453,3 +453,6 @@ The repository is organized as follows:
 |                      [1100](https://www.beecrowd.com.br/repository/UOJ_1100.html)                      |     Beecrowd      |    C++     |
 |                      [1905](https://www.beecrowd.com.br/repository/UOJ_1905.html)                      |     Beecrowd      |    C++     |
 |                      [1330](https://www.beecrowd.com.br/repository/UOJ_1330.html)                      |     Beecrowd      |    C++     |
+|                         [BuildingTeams](https://cses.fi/problemset/task/1668/)                         |       CSES        |    C++     |
+|                         [countingrooms](https://cses.fi/problemset/task/1192)                          |       CSES        |    C++     |
+|                           [matchin](https://www.spoj.com/problems/MATCHING/)                           |       spoj        |    C++     |
