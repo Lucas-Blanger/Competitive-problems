@@ -27,7 +27,7 @@ The repository is organized as follows:
 ## Summary
 
 |                                                  Nome                                                  |    Plataforma     | Linguagem  |
-| :----------------------------------------------------------------------------------------------------: | :---------------: | :--------: |
+| :----------------------------------------------------------------------------------------------------: | :---------------: | :--------: | --- |
 |                      [1086](https://www.beecrowd.com.br/repository/UOJ_1086.html)                      |     Beecrowd      |   Python   |
 |                      [2091](https://www.beecrowd.com.br/repository/UOJ_2091.html)                      |     Beecrowd      |   Python   |
 |                      [2136](https://www.beecrowd.com.br/repository/UOJ_2136.html)                      |     Beecrowd      |   Python   |
@@ -455,4 +455,8 @@ The repository is organized as follows:
 |                      [1330](https://www.beecrowd.com.br/repository/UOJ_1330.html)                      |     Beecrowd      |    C++     |
 |                         [BuildingTeams](https://cses.fi/problemset/task/1668/)                         |       CSES        |    C++     |
 |                         [countingrooms](https://cses.fi/problemset/task/1192)                          |       CSES        |    C++     |
-|                           [matchin](https://www.spoj.com/problems/MATCHING/)                           |       spoj        |    C++     |
+|                           [matchin](https://www.spoj.com/problems/MATCHING/)                           |       spoj        |    C++     | h   |
+|                          [SchoolDance](https://cses.fi/problemset/task/1696/)                          |       CSES        |    C++     |
+|                      [1119](https://www.beecrowd.com.br/repository/UOJ_1119.html)                      |     Beecrowd      |    C++     |
+|                      [1327](https://www.beecrowd.com.br/repository/UOJ_1327.html)                      |     Beecrowd      |    C++     |
+|                      [1932](https://www.beecrowd.com.br/repository/UOJ_1932.html)                      |     Beecrowd      |    C++     |
