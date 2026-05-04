@@ -466,3 +466,4 @@ The repository is organized as follows:
 |                           [CSES_1671](https://cses.fi/problemset/task/1671)                            |       CSES        |    C++     |
 |                        [10986](https://onlinejudge.org/external/109/10986.pdf)                         |        UVa        |    C++     |
 |                      [1077](https://www.beecrowd.com.br/repository/UOJ_1077.html)                      |     Beecrowd      |    C++     |
+|                      [2566](https://www.beecrowd.com.br/repository/UOJ_2566.html)                      |     Beecrowd      |    C++     |
