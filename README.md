@@ -480,3 +480,5 @@ The repository is organized as follows:
 |                      [1191](https://www.beecrowd.com.br/repository/UOJ_1191.html)                      |     Beecrowd      |    C++     |
 |                               [LCA](https://www.spoj.com/problems/LCA/)                                |       spoj        |    C++     |
 |                           [CSES_1688](https://cses.fi/problemset/task/1688/)                           |       CSES        |    C++     |
+|                      [1520](https://www.beecrowd.com.br/repository/UOJ_1520.html)                      |     Beecrowd      |    C++     |
+|                      [1424](https://www.beecrowd.com.br/repository/UOJ_1424.html)                      |     Beecrowd      |    C++     |
