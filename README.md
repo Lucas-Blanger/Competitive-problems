@@ -482,3 +482,4 @@ The repository is organized as follows:
 |                           [CSES_1688](https://cses.fi/problemset/task/1688/)                           |       CSES        |    C++     |
 |                      [1520](https://www.beecrowd.com.br/repository/UOJ_1520.html)                      |     Beecrowd      |    C++     |
 |                      [1424](https://www.beecrowd.com.br/repository/UOJ_1424.html)                      |     Beecrowd      |    C++     |
+|                      [1466](https://www.beecrowd.com.br/repository/UOJ_1466.html)                      |     Beecrowd      |    C++     |
