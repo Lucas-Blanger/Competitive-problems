@@ -485,3 +485,6 @@ The repository is organized as follows:
 |                      [1466](https://www.beecrowd.com.br/repository/UOJ_1466.html)                      |     Beecrowd      |    C++     |
 |                      [1200](https://www.beecrowd.com.br/repository/UOJ_1200.html)                      |     Beecrowd      |    C++     |
 |                      [1201](https://www.beecrowd.com.br/repository/UOJ_1201.html)                      |     Beecrowd      |    C++     |
+|                         [106598D](https://codeforces.com/gym/106598/problem/D)                         |    Codeforces     |    C++     |
+|                         [106598H](https://codeforces.com/gym/106598/problem/H)                         |    Codeforces     |    C++     |
+|                         [106598C](https://codeforces.com/gym/106598/problem/C)                         |    Codeforces     |    C++     |
