@@ -488,3 +488,4 @@ The repository is organized as follows:
 |                         [106598D](https://codeforces.com/gym/106598/problem/D)                         |    Codeforces     |    C++     |
 |                         [106598H](https://codeforces.com/gym/106598/problem/H)                         |    Codeforces     |    C++     |
 |                         [106598C](https://codeforces.com/gym/106598/problem/C)                         |    Codeforces     |    C++     |
+|                      [3358](https://www.beecrowd.com.br/repository/UOJ_3358.html)                      |
