@@ -498,3 +498,4 @@ The repository is organized as follows:
 |                      [1437](https://www.beecrowd.com.br/repository/UOJ_1437.html)                      |     Beecrowd      |    C++     |
 |                      [3433](https://www.beecrowd.com.br/repository/UOJ_3433.html)                      |     Beecrowd      |    C++     |
 |                      [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html)                      |     Beecrowd      |    C++     |
+|                        [363B](https://codeforces.com/problemset/problem/363/B)                         |    Codeforces     |    C++     |
