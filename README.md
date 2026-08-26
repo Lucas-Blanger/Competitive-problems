@@ -500,3 +500,5 @@ The repository is organized as follows:
 |                      [3429](https://www.beecrowd.com.br/repository/UOJ_3429.html)                      |     Beecrowd      |    C++     |
 |                        [363B](https://codeforces.com/problemset/problem/363/B)                         |    Codeforces     |    C++     |
 |                         [106636C](https://codeforces.com/gym/106636/problem/C)                         |    Codeforces     |    C++     |
+|                         [106636L](https://codeforces.com/gym/106636/problem/L)                         |    Codeforces     |    C++     |
+|                         [103388E](https://codeforces.com/gym/103388/problem/E)                         |    Codeforces     |    C++     |
