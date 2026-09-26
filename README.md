@@ -502,3 +502,5 @@ The repository is organized as follows:
 |                         [106636C](https://codeforces.com/gym/106636/problem/C)                         |    Codeforces     |    C++     |
 |                         [106636L](https://codeforces.com/gym/106636/problem/L)                         |    Codeforces     |    C++     |
 |                         [103388E](https://codeforces.com/gym/103388/problem/E)                         |    Codeforces     |    C++     |
+|                         [106679F](https://codeforces.com/gym/106679/problem/F)                         |    Codeforces     |    C++     |
+|                         [106679D](https://codeforces.com/gym/106679/problem/D)                         |    Codeforces     |    C++     |
