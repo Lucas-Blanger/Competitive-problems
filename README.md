@@ -504,3 +504,4 @@ The repository is organized as follows:
 |                         [103388E](https://codeforces.com/gym/103388/problem/E)                         |    Codeforces     |    C++     |
 |                         [106679F](https://codeforces.com/gym/106679/problem/F)                         |    Codeforces     |    C++     |
 |                         [106679D](https://codeforces.com/gym/106679/problem/D)                         |    Codeforces     |    C++     |
+|                      [3351](https://www.beecrowd.com.br/repository/UOJ_3351.html)                      |     Beecrowd      |    C++     |
