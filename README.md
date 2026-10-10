@@ -505,3 +505,7 @@ The repository is organized as follows:
 |                         [106679F](https://codeforces.com/gym/106679/problem/F)                         |    Codeforces     |    C++     |
 |                         [106679D](https://codeforces.com/gym/106679/problem/D)                         |    Codeforces     |    C++     |
 |                      [3351](https://www.beecrowd.com.br/repository/UOJ_3351.html)                      |     Beecrowd      |    C++     |
+|                      [2854](https://www.beecrowd.com.br/repository/UOJ_2854.html)                      |     Beecrowd      |    C++     |
+|                      [2690](https://www.beecrowd.com.br/repository/UOJ_2690.html)                      |     Beecrowd      |    C++     |
+|                      [1839](https://www.beecrowd.com.br/repository/UOJ_1839.html)                      |     Beecrowd      |    C++     |
+|                      [1710](https://www.beecrowd.com.br/repository/UOJ_1710.html)                      |     Beecrowd      |    C++     |
