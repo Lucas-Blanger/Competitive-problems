@@ -511,3 +511,4 @@ The repository is organized as follows:
 |                      [1710](https://www.beecrowd.com.br/repository/UOJ_1710.html)                      |     Beecrowd      |    C++     |
 |                      [1684](https://www.beecrowd.com.br/repository/UOJ_1684.html)                      |     Beecrowd      |    C++     |
 |                      [1061](https://www.beecrowd.com.br/repository/UOJ_1061.html)                      |     Beecrowd      |    C++     |
+|                   [724784B](https://codeforces.com/group/Jd6zhlGJZg/contest/724784)                    |    Codeforces     |    C++     |
