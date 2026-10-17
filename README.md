@@ -514,3 +514,4 @@ The repository is organized as follows:
 |                   [724784B](https://codeforces.com/group/Jd6zhlGJZg/contest/724784)                    |    Codeforces     |    C++     |
 |                   [724784D](https://codeforces.com/group/Jd6zhlGJZg/contest/724784)                    |    Codeforces     |    C++     |
 |                   [724784E](https://codeforces.com/group/Jd6zhlGJZg/contest/724784)                    |    Codeforces     |    C++     |
+|                   [724784G](https://codeforces.com/group/Jd6zhlGJZg/contest/724784)                    |    Codeforces     |    C++     |
